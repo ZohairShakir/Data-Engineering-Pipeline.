@@ -16,6 +16,8 @@ The default seed (`42`) produces:
 - twelve monthly files each for orders, order items, and payments
 
 The exact row count and status distribution are written to `manifest.json`.
+For seed `42`, the verified reference run contains 47,622 total source rows and
+25,122 order-item rows across 38 CSV files.
 
 ## Why synthetic data
 

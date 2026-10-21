@@ -9,3 +9,5 @@ data
 logs
 docs
 tests
+dashboard/node_modules
+dashboard/dist

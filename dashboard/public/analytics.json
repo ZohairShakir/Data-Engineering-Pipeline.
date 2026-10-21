@@ -1,0 +1,6293 @@
+{
+  "dashboard": {
+    "category_metrics": [
+      {
+        "average_order_value": 541.38,
+        "cancelled_order_percentage": 5.9,
+        "category": "beauty",
+        "net_revenue": 1758398.06,
+        "order_count": 3591
+      },
+      {
+        "average_order_value": 534.28,
+        "cancelled_order_percentage": 5.78,
+        "category": "books",
+        "net_revenue": 1657331.34,
+        "order_count": 3426
+      },
+      {
+        "average_order_value": 510.92,
+        "cancelled_order_percentage": 5.64,
+        "category": "electronics",
+        "net_revenue": 1870998.42,
+        "order_count": 4045
+      },
+      {
+        "average_order_value": 500.64,
+        "cancelled_order_percentage": 5.69,
+        "category": "home",
+        "net_revenue": 1645089.02,
+        "order_count": 3618
+      },
+      {
+        "average_order_value": 486.58,
+        "cancelled_order_percentage": 5.79,
+        "category": "sports",
+        "net_revenue": 1498657.74,
+        "order_count": 3403
+      },
+      {
+        "average_order_value": 526.64,
+        "cancelled_order_percentage": 6.27,
+        "category": "toys",
+        "net_revenue": 1553579.84,
+        "order_count": 3286
+      }
+    ],
+    "category_monthly": [
+      {
+        "category": "beauty",
+        "month": "2025-01",
+        "order_count": 286,
+        "revenue": 138855.19
+      },
+      {
+        "category": "beauty",
+        "month": "2025-02",
+        "order_count": 272,
+        "revenue": 133023.09
+      },
+      {
+        "category": "beauty",
+        "month": "2025-03",
+        "order_count": 300,
+        "revenue": 155020.69
+      },
+      {
+        "category": "beauty",
+        "month": "2025-04",
+        "order_count": 283,
+        "revenue": 144884.32
+      },
+      {
+        "category": "beauty",
+        "month": "2025-05",
+        "order_count": 288,
+        "revenue": 146366.48
+      },
+      {
+        "category": "beauty",
+        "month": "2025-06",
+        "order_count": 313,
+        "revenue": 155479.25
+      },
+      {
+        "category": "beauty",
+        "month": "2025-07",
+        "order_count": 317,
+        "revenue": 149273.64
+      },
+      {
+        "category": "beauty",
+        "month": "2025-08",
+        "order_count": 308,
+        "revenue": 156963.09
+      },
+      {
+        "category": "beauty",
+        "month": "2025-09",
+        "order_count": 307,
+        "revenue": 135581.85
+      },
+      {
+        "category": "beauty",
+        "month": "2025-10",
+        "order_count": 303,
+        "revenue": 140987.14
+      },
+      {
+        "category": "beauty",
+        "month": "2025-11",
+        "order_count": 297,
+        "revenue": 144925.83
+      },
+      {
+        "category": "beauty",
+        "month": "2025-12",
+        "order_count": 317,
+        "revenue": 157037.49
+      },
+      {
+        "category": "books",
+        "month": "2025-01",
+        "order_count": 278,
+        "revenue": 140596.99
+      },
+      {
+        "category": "books",
+        "month": "2025-02",
+        "order_count": 261,
+        "revenue": 140953.84
+      },
+      {
+        "category": "books",
+        "month": "2025-03",
+        "order_count": 296,
+        "revenue": 151073.11
+      },
+      {
+        "category": "books",
+        "month": "2025-04",
+        "order_count": 289,
+        "revenue": 124116.21
+      },
+      {
+        "category": "books",
+        "month": "2025-05",
+        "order_count": 292,
+        "revenue": 139179.39
+      },
+      {
+        "category": "books",
+        "month": "2025-06",
+        "order_count": 275,
+        "revenue": 133105.92
+      },
+      {
+        "category": "books",
+        "month": "2025-07",
+        "order_count": 292,
+        "revenue": 141503.86
+      },
+      {
+        "category": "books",
+        "month": "2025-08",
+        "order_count": 320,
+        "revenue": 164566.64
+      },
+      {
+        "category": "books",
+        "month": "2025-09",
+        "order_count": 280,
+        "revenue": 129973.6
+      },
+      {
+        "category": "books",
+        "month": "2025-10",
+        "order_count": 284,
+        "revenue": 137153.31
+      },
+      {
+        "category": "books",
+        "month": "2025-11",
+        "order_count": 272,
+        "revenue": 119736.51
+      },
+      {
+        "category": "books",
+        "month": "2025-12",
+        "order_count": 287,
+        "revenue": 135371.96
+      },
+      {
+        "category": "electronics",
+        "month": "2025-01",
+        "order_count": 314,
+        "revenue": 148912.56
+      },
+      {
+        "category": "electronics",
+        "month": "2025-02",
+        "order_count": 328,
+        "revenue": 146781.38
+      },
+      {
+        "category": "electronics",
+        "month": "2025-03",
+        "order_count": 327,
+        "revenue": 150266.98
+      },
+      {
+        "category": "electronics",
+        "month": "2025-04",
+        "order_count": 340,
+        "revenue": 145747.06
+      },
+      {
+        "category": "electronics",
+        "month": "2025-05",
+        "order_count": 346,
+        "revenue": 158989.12
+      },
+      {
+        "category": "electronics",
+        "month": "2025-06",
+        "order_count": 345,
+        "revenue": 132722.11
+      },
+      {
+        "category": "electronics",
+        "month": "2025-07",
+        "order_count": 347,
+        "revenue": 159360.84
+      },
+      {
+        "category": "electronics",
+        "month": "2025-08",
+        "order_count": 359,
+        "revenue": 188119.16
+      },
+      {
+        "category": "electronics",
+        "month": "2025-09",
+        "order_count": 350,
+        "revenue": 166319.88
+      },
+      {
+        "category": "electronics",
+        "month": "2025-10",
+        "order_count": 324,
+        "revenue": 147317.36
+      },
+      {
+        "category": "electronics",
+        "month": "2025-11",
+        "order_count": 341,
+        "revenue": 168045.16
+      },
+      {
+        "category": "electronics",
+        "month": "2025-12",
+        "order_count": 324,
+        "revenue": 158416.81
+      },
+      {
+        "category": "home",
+        "month": "2025-01",
+        "order_count": 294,
+        "revenue": 125564.78
+      },
+      {
+        "category": "home",
+        "month": "2025-02",
+        "order_count": 297,
+        "revenue": 134881.94
+      },
+      {
+        "category": "home",
+        "month": "2025-03",
+        "order_count": 303,
+        "revenue": 122938.43
+      },
+      {
+        "category": "home",
+        "month": "2025-04",
+        "order_count": 283,
+        "revenue": 120341.38
+      },
+      {
+        "category": "home",
+        "month": "2025-05",
+        "order_count": 281,
+        "revenue": 125261.23
+      },
+      {
+        "category": "home",
+        "month": "2025-06",
+        "order_count": 305,
+        "revenue": 143152.01
+      },
+      {
+        "category": "home",
+        "month": "2025-07",
+        "order_count": 295,
+        "revenue": 133115.24
+      },
+      {
+        "category": "home",
+        "month": "2025-08",
+        "order_count": 325,
+        "revenue": 162686.82
+      },
+      {
+        "category": "home",
+        "month": "2025-09",
+        "order_count": 297,
+        "revenue": 133937.4
+      },
+      {
+        "category": "home",
+        "month": "2025-10",
+        "order_count": 303,
+        "revenue": 144792.91
+      },
+      {
+        "category": "home",
+        "month": "2025-11",
+        "order_count": 323,
+        "revenue": 151906.19
+      },
+      {
+        "category": "home",
+        "month": "2025-12",
+        "order_count": 312,
+        "revenue": 146510.69
+      },
+      {
+        "category": "sports",
+        "month": "2025-01",
+        "order_count": 266,
+        "revenue": 122272.54
+      },
+      {
+        "category": "sports",
+        "month": "2025-02",
+        "order_count": 261,
+        "revenue": 116048.33
+      },
+      {
+        "category": "sports",
+        "month": "2025-03",
+        "order_count": 264,
+        "revenue": 119561.38
+      },
+      {
+        "category": "sports",
+        "month": "2025-04",
+        "order_count": 265,
+        "revenue": 120302.85
+      },
+      {
+        "category": "sports",
+        "month": "2025-05",
+        "order_count": 278,
+        "revenue": 109665.76
+      },
+      {
+        "category": "sports",
+        "month": "2025-06",
+        "order_count": 294,
+        "revenue": 130941.02
+      },
+      {
+        "category": "sports",
+        "month": "2025-07",
+        "order_count": 312,
+        "revenue": 145483.66
+      },
+      {
+        "category": "sports",
+        "month": "2025-08",
+        "order_count": 307,
+        "revenue": 130716.45
+      },
+      {
+        "category": "sports",
+        "month": "2025-09",
+        "order_count": 296,
+        "revenue": 129510.21
+      },
+      {
+        "category": "sports",
+        "month": "2025-10",
+        "order_count": 290,
+        "revenue": 123130.35
+      },
+      {
+        "category": "sports",
+        "month": "2025-11",
+        "order_count": 285,
+        "revenue": 127337.89
+      },
+      {
+        "category": "sports",
+        "month": "2025-12",
+        "order_count": 285,
+        "revenue": 123687.3
+      },
+      {
+        "category": "toys",
+        "month": "2025-01",
+        "order_count": 264,
+        "revenue": 128397.56
+      },
+      {
+        "category": "toys",
+        "month": "2025-02",
+        "order_count": 261,
+        "revenue": 133226.46
+      },
+      {
+        "category": "toys",
+        "month": "2025-03",
+        "order_count": 276,
+        "revenue": 137265.37
+      },
+      {
+        "category": "toys",
+        "month": "2025-04",
+        "order_count": 265,
+        "revenue": 124577.05
+      },
+      {
+        "category": "toys",
+        "month": "2025-05",
+        "order_count": 277,
+        "revenue": 139658.94
+      },
+      {
+        "category": "toys",
+        "month": "2025-06",
+        "order_count": 291,
+        "revenue": 118622.43
+      },
+      {
+        "category": "toys",
+        "month": "2025-07",
+        "order_count": 289,
+        "revenue": 135528.73
+      },
+      {
+        "category": "toys",
+        "month": "2025-08",
+        "order_count": 261,
+        "revenue": 120304.6
+      },
+      {
+        "category": "toys",
+        "month": "2025-09",
+        "order_count": 280,
+        "revenue": 124937.56
+      },
+      {
+        "category": "toys",
+        "month": "2025-10",
+        "order_count": 259,
+        "revenue": 119367.33
+      },
+      {
+        "category": "toys",
+        "month": "2025-11",
+        "order_count": 306,
+        "revenue": 145833.23
+      },
+      {
+        "category": "toys",
+        "month": "2025-12",
+        "order_count": 257,
+        "revenue": 125860.58
+      }
+    ],
+    "pipeline_status": [
+      {
+        "batch_id": "run-20261021T072609Z-a27a7ef3",
+        "completed_at": "2026-10-21T07:26:12.921371+00:00",
+        "rows_loaded": 25122,
+        "rows_read": 47622,
+        "rows_rejected": 0,
+        "run_id": 1,
+        "started_at": "2026-10-21T07:26:09.958238+00:00",
+        "status": "succeeded"
+      }
+    ],
+    "product_performance": [
+      {
+        "category": "sports",
+        "product_id": "PROD000444",
+        "product_name": "Cricket Bat 444",
+        "revenue": 58183.02,
+        "units": 145
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000096",
+        "product_name": "Yoga Mat 096",
+        "revenue": 57458.6,
+        "units": 133
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000388",
+        "product_name": "Yoga Mat 388",
+        "revenue": 54089.28,
+        "units": 141
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000443",
+        "product_name": "Novel 443",
+        "revenue": 52624.08,
+        "units": 132
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000225",
+        "product_name": "Cookbook 225",
+        "revenue": 52504.98,
+        "units": 130
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000344",
+        "product_name": "Shampoo 344",
+        "revenue": 49592.0,
+        "units": 109
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000210",
+        "product_name": "Bedsheet 210",
+        "revenue": 48317.3,
+        "units": 118
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000058",
+        "product_name": "Biography 058",
+        "revenue": 48078.34,
+        "units": 124
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000313",
+        "product_name": "Biography 313",
+        "revenue": 48001.09,
+        "units": 117
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000498",
+        "product_name": "Sunscreen 498",
+        "revenue": 46288.0,
+        "units": 125
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000036",
+        "product_name": "Headphones 036",
+        "revenue": 46061.96,
+        "units": 114
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000207",
+        "product_name": "Puzzle 207",
+        "revenue": 45871.3,
+        "units": 108
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000138",
+        "product_name": "Webcam 138",
+        "revenue": 45485.44,
+        "units": 100
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000184",
+        "product_name": "Shampoo 184",
+        "revenue": 45286.39,
+        "units": 110
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000131",
+        "product_name": "Bedsheet 131",
+        "revenue": 45283.65,
+        "units": 119
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000087",
+        "product_name": "Novel 087",
+        "revenue": 44957.0,
+        "units": 118
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000342",
+        "product_name": "Biography 342",
+        "revenue": 44577.75,
+        "units": 122
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000339",
+        "product_name": "Face Wash 339",
+        "revenue": 44077.28,
+        "units": 129
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000311",
+        "product_name": "Headphones 311",
+        "revenue": 44060.64,
+        "units": 110
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000479",
+        "product_name": "Webcam 479",
+        "revenue": 43266.84,
+        "units": 132
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000165",
+        "product_name": "Lamp 165",
+        "revenue": 43036.68,
+        "units": 112
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000073",
+        "product_name": "Webcam 073",
+        "revenue": 42777.24,
+        "units": 105
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000179",
+        "product_name": "Sunscreen 179",
+        "revenue": 42459.0,
+        "units": 119
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000053",
+        "product_name": "Cookbook 053",
+        "revenue": 42367.36,
+        "units": 116
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000027",
+        "product_name": "Sunscreen 027",
+        "revenue": 42208.68,
+        "units": 135
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000471",
+        "product_name": "Bedsheet 471",
+        "revenue": 42053.22,
+        "units": 121
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000010",
+        "product_name": "Cricket Bat 010",
+        "revenue": 41872.32,
+        "units": 104
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000049",
+        "product_name": "Biography 049",
+        "revenue": 41838.72,
+        "units": 114
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000224",
+        "product_name": "Building Blocks 224",
+        "revenue": 41279.71,
+        "units": 123
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000411",
+        "product_name": "Yoga Mat 411",
+        "revenue": 41137.62,
+        "units": 117
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000115",
+        "product_name": "Remote Car 115",
+        "revenue": 40868.06,
+        "units": 94
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000346",
+        "product_name": "Storage Box 346",
+        "revenue": 40799.38,
+        "units": 116
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000154",
+        "product_name": "Sunscreen 154",
+        "revenue": 40516.38,
+        "units": 98
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000101",
+        "product_name": "Cricket Bat 101",
+        "revenue": 39731.16,
+        "units": 105
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000376",
+        "product_name": "Webcam 376",
+        "revenue": 39400.9,
+        "units": 137
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000005",
+        "product_name": "Headphones 005",
+        "revenue": 39385.1,
+        "units": 107
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000001",
+        "product_name": "Moisturizer 001",
+        "revenue": 39344.42,
+        "units": 93
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000024",
+        "product_name": "Remote Car 024",
+        "revenue": 39114.6,
+        "units": 102
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000167",
+        "product_name": "Biography 167",
+        "revenue": 38999.52,
+        "units": 110
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000032",
+        "product_name": "Remote Car 032",
+        "revenue": 38706.96,
+        "units": 119
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000109",
+        "product_name": "Shampoo 109",
+        "revenue": 38567.04,
+        "units": 118
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000455",
+        "product_name": "Lamp 455",
+        "revenue": 38540.64,
+        "units": 115
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000477",
+        "product_name": "Study Guide 477",
+        "revenue": 38458.34,
+        "units": 107
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000238",
+        "product_name": "Headphones 238",
+        "revenue": 38434.55,
+        "units": 95
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000127",
+        "product_name": "Puzzle 127",
+        "revenue": 38373.3,
+        "units": 116
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000454",
+        "product_name": "Football 454",
+        "revenue": 38132.16,
+        "units": 108
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000430",
+        "product_name": "Football 430",
+        "revenue": 38128.2,
+        "units": 127
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000474",
+        "product_name": "Yoga Mat 474",
+        "revenue": 38118.96,
+        "units": 116
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000378",
+        "product_name": "Novel 378",
+        "revenue": 38009.23,
+        "units": 111
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000151",
+        "product_name": "Storage Box 151",
+        "revenue": 37915.2,
+        "units": 112
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000107",
+        "product_name": "Football 107",
+        "revenue": 37867.38,
+        "units": 134
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000458",
+        "product_name": "Face Wash 458",
+        "revenue": 37620.48,
+        "units": 132
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000006",
+        "product_name": "Puzzle 006",
+        "revenue": 37616.0,
+        "units": 98
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000072",
+        "product_name": "Puzzle 072",
+        "revenue": 37286.95,
+        "units": 105
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000056",
+        "product_name": "Study Guide 056",
+        "revenue": 37158.88,
+        "units": 100
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000480",
+        "product_name": "Novel 480",
+        "revenue": 37076.0,
+        "units": 103
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000321",
+        "product_name": "Shampoo 321",
+        "revenue": 36663.44,
+        "units": 98
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000274",
+        "product_name": "Water Bottle 274",
+        "revenue": 36515.6,
+        "units": 98
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000442",
+        "product_name": "Sunscreen 442",
+        "revenue": 36365.6,
+        "units": 96
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000017",
+        "product_name": "Remote Car 017",
+        "revenue": 36344.0,
+        "units": 107
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000303",
+        "product_name": "Storage Box 303",
+        "revenue": 36295.53,
+        "units": 91
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000282",
+        "product_name": "Lamp 282",
+        "revenue": 36121.54,
+        "units": 113
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000066",
+        "product_name": "Cricket Bat 066",
+        "revenue": 36043.2,
+        "units": 108
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000239",
+        "product_name": "Shampoo 239",
+        "revenue": 35998.74,
+        "units": 93
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000025",
+        "product_name": "Strategy Game 025",
+        "revenue": 35818.86,
+        "units": 85
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000314",
+        "product_name": "Sunscreen 314",
+        "revenue": 35796.28,
+        "units": 78
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000132",
+        "product_name": "Building Blocks 132",
+        "revenue": 35762.4,
+        "units": 102
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000362",
+        "product_name": "Keyboard 362",
+        "revenue": 35680.32,
+        "units": 85
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000351",
+        "product_name": "Power Bank 351",
+        "revenue": 35428.0,
+        "units": 114
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000093",
+        "product_name": "Novel 093",
+        "revenue": 35298.62,
+        "units": 109
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000308",
+        "product_name": "Cookbook 308",
+        "revenue": 35130.48,
+        "units": 103
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000265",
+        "product_name": "Strategy Game 265",
+        "revenue": 35074.2,
+        "units": 97
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000255",
+        "product_name": "Webcam 255",
+        "revenue": 34839.16,
+        "units": 86
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000146",
+        "product_name": "Strategy Game 146",
+        "revenue": 34808.62,
+        "units": 98
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000033",
+        "product_name": "Study Guide 033",
+        "revenue": 34763.82,
+        "units": 104
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000070",
+        "product_name": "Keyboard 070",
+        "revenue": 34553.52,
+        "units": 91
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000106",
+        "product_name": "Keyboard 106",
+        "revenue": 34322.64,
+        "units": 100
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000470",
+        "product_name": "Power Bank 470",
+        "revenue": 34246.5,
+        "units": 91
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000487",
+        "product_name": "Headphones 487",
+        "revenue": 34129.72,
+        "units": 103
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000355",
+        "product_name": "Storage Box 355",
+        "revenue": 34029.64,
+        "units": 87
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000332",
+        "product_name": "Yoga Mat 332",
+        "revenue": 33940.8,
+        "units": 97
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000287",
+        "product_name": "Football 287",
+        "revenue": 33874.2,
+        "units": 97
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000119",
+        "product_name": "Cricket Bat 119",
+        "revenue": 33764.05,
+        "units": 100
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000061",
+        "product_name": "Webcam 061",
+        "revenue": 33722.92,
+        "units": 93
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000413",
+        "product_name": "Study Guide 413",
+        "revenue": 33392.5,
+        "units": 87
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000417",
+        "product_name": "Power Bank 417",
+        "revenue": 33206.1,
+        "units": 112
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000125",
+        "product_name": "Bedsheet 125",
+        "revenue": 33029.02,
+        "units": 125
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000021",
+        "product_name": "Face Wash 021",
+        "revenue": 32995.27,
+        "units": 82
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000160",
+        "product_name": "Water Bottle 160",
+        "revenue": 32692.2,
+        "units": 122
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000028",
+        "product_name": "Power Bank 028",
+        "revenue": 32646.9,
+        "units": 87
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000218",
+        "product_name": "Sunscreen 218",
+        "revenue": 32540.16,
+        "units": 106
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000331",
+        "product_name": "Moisturizer 331",
+        "revenue": 32320.29,
+        "units": 108
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000186",
+        "product_name": "Keyboard 186",
+        "revenue": 32255.58,
+        "units": 148
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000178",
+        "product_name": "Power Bank 178",
+        "revenue": 32253.52,
+        "units": 136
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000112",
+        "product_name": "Face Wash 112",
+        "revenue": 32148.0,
+        "units": 98
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000004",
+        "product_name": "Sunscreen 004",
+        "revenue": 31999.8,
+        "units": 95
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000422",
+        "product_name": "Keyboard 422",
+        "revenue": 31934.56,
+        "units": 118
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000237",
+        "product_name": "Sunscreen 237",
+        "revenue": 31848.48,
+        "units": 149
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000486",
+        "product_name": "Webcam 486",
+        "revenue": 31700.76,
+        "units": 108
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000152",
+        "product_name": "Lamp 152",
+        "revenue": 31628.88,
+        "units": 82
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000259",
+        "product_name": "Study Guide 259",
+        "revenue": 31617.24,
+        "units": 97
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000102",
+        "product_name": "Water Bottle 102",
+        "revenue": 31549.7,
+        "units": 85
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000383",
+        "product_name": "Novel 383",
+        "revenue": 31454.51,
+        "units": 95
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000122",
+        "product_name": "Moisturizer 122",
+        "revenue": 31420.76,
+        "units": 85
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000453",
+        "product_name": "Keyboard 453",
+        "revenue": 31344.36,
+        "units": 106
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000203",
+        "product_name": "Headphones 203",
+        "revenue": 31330.8,
+        "units": 93
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000496",
+        "product_name": "Headphones 496",
+        "revenue": 31298.22,
+        "units": 103
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000424",
+        "product_name": "Moisturizer 424",
+        "revenue": 31265.5,
+        "units": 104
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000306",
+        "product_name": "Sunscreen 306",
+        "revenue": 31137.26,
+        "units": 96
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000080",
+        "product_name": "Bedsheet 080",
+        "revenue": 30923.96,
+        "units": 109
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000279",
+        "product_name": "Power Bank 279",
+        "revenue": 30788.1,
+        "units": 106
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000137",
+        "product_name": "Biography 137",
+        "revenue": 30730.92,
+        "units": 77
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000286",
+        "product_name": "Puzzle 286",
+        "revenue": 30585.4,
+        "units": 112
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000396",
+        "product_name": "Lamp 396",
+        "revenue": 30545.62,
+        "units": 107
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000358",
+        "product_name": "Cookbook 358",
+        "revenue": 30456.8,
+        "units": 88
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000055",
+        "product_name": "Lamp 055",
+        "revenue": 30404.44,
+        "units": 99
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000267",
+        "product_name": "Novel 267",
+        "revenue": 30368.12,
+        "units": 88
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000330",
+        "product_name": "Moisturizer 330",
+        "revenue": 30344.92,
+        "units": 94
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000235",
+        "product_name": "Power Bank 235",
+        "revenue": 30323.16,
+        "units": 94
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000341",
+        "product_name": "Bedsheet 341",
+        "revenue": 30237.6,
+        "units": 94
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000387",
+        "product_name": "Power Bank 387",
+        "revenue": 30195.36,
+        "units": 80
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000015",
+        "product_name": "Cookbook 015",
+        "revenue": 30190.74,
+        "units": 109
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000120",
+        "product_name": "Storage Box 120",
+        "revenue": 30104.47,
+        "units": 90
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000171",
+        "product_name": "Headphones 171",
+        "revenue": 29983.94,
+        "units": 88
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000082",
+        "product_name": "Shampoo 082",
+        "revenue": 29504.79,
+        "units": 80
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000034",
+        "product_name": "Puzzle 034",
+        "revenue": 29418.69,
+        "units": 100
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000051",
+        "product_name": "Headphones 051",
+        "revenue": 29293.32,
+        "units": 105
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000104",
+        "product_name": "Football 104",
+        "revenue": 29278.98,
+        "units": 85
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000432",
+        "product_name": "Remote Car 432",
+        "revenue": 29230.96,
+        "units": 113
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000472",
+        "product_name": "Lamp 472",
+        "revenue": 29221.5,
+        "units": 89
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000110",
+        "product_name": "Headphones 110",
+        "revenue": 29187.78,
+        "units": 97
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000389",
+        "product_name": "Webcam 389",
+        "revenue": 29181.6,
+        "units": 91
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000026",
+        "product_name": "Storage Box 026",
+        "revenue": 29058.22,
+        "units": 116
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000208",
+        "product_name": "Yoga Mat 208",
+        "revenue": 28934.5,
+        "units": 117
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000367",
+        "product_name": "Puzzle 367",
+        "revenue": 28605.32,
+        "units": 96
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000162",
+        "product_name": "Puzzle 162",
+        "revenue": 28601.43,
+        "units": 123
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000121",
+        "product_name": "Resistance Band 121",
+        "revenue": 28594.44,
+        "units": 122
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000031",
+        "product_name": "Cookbook 031",
+        "revenue": 28426.5,
+        "units": 97
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000181",
+        "product_name": "Building Blocks 181",
+        "revenue": 28253.74,
+        "units": 82
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000011",
+        "product_name": "Biography 011",
+        "revenue": 28242.51,
+        "units": 78
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000245",
+        "product_name": "Water Bottle 245",
+        "revenue": 28224.9,
+        "units": 104
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000427",
+        "product_name": "Remote Car 427",
+        "revenue": 28185.86,
+        "units": 94
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000042",
+        "product_name": "Moisturizer 042",
+        "revenue": 28068.7,
+        "units": 98
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000400",
+        "product_name": "Shampoo 400",
+        "revenue": 27952.64,
+        "units": 86
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000163",
+        "product_name": "Water Bottle 163",
+        "revenue": 27725.05,
+        "units": 103
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000054",
+        "product_name": "Water Bottle 054",
+        "revenue": 27696.48,
+        "units": 128
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000003",
+        "product_name": "Webcam 003",
+        "revenue": 27680.04,
+        "units": 110
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000452",
+        "product_name": "Biography 452",
+        "revenue": 27513.36,
+        "units": 117
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000377",
+        "product_name": "Face Wash 377",
+        "revenue": 27374.68,
+        "units": 104
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000188",
+        "product_name": "Cricket Bat 188",
+        "revenue": 27346.2,
+        "units": 71
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000316",
+        "product_name": "Power Bank 316",
+        "revenue": 27240.15,
+        "units": 135
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000268",
+        "product_name": "Bedsheet 268",
+        "revenue": 27166.73,
+        "units": 93
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000457",
+        "product_name": "Puzzle 457",
+        "revenue": 27007.44,
+        "units": 99
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000437",
+        "product_name": "Moisturizer 437",
+        "revenue": 26986.74,
+        "units": 90
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000214",
+        "product_name": "Face Wash 214",
+        "revenue": 26973.9,
+        "units": 99
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000469",
+        "product_name": "Yoga Mat 469",
+        "revenue": 26673.68,
+        "units": 99
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000380",
+        "product_name": "Power Bank 380",
+        "revenue": 26527.04,
+        "units": 88
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000357",
+        "product_name": "Webcam 357",
+        "revenue": 26421.57,
+        "units": 108
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000492",
+        "product_name": "Football 492",
+        "revenue": 26417.6,
+        "units": 102
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000067",
+        "product_name": "Remote Car 067",
+        "revenue": 26372.01,
+        "units": 111
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000399",
+        "product_name": "Remote Car 399",
+        "revenue": 26277.68,
+        "units": 107
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000420",
+        "product_name": "Shampoo 420",
+        "revenue": 26146.63,
+        "units": 101
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000449",
+        "product_name": "Cricket Bat 449",
+        "revenue": 26042.16,
+        "units": 100
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000270",
+        "product_name": "Cricket Bat 270",
+        "revenue": 25935.22,
+        "units": 74
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000201",
+        "product_name": "Biography 201",
+        "revenue": 25545.5,
+        "units": 107
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000434",
+        "product_name": "Water Bottle 434",
+        "revenue": 25459.9,
+        "units": 108
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000098",
+        "product_name": "Building Blocks 098",
+        "revenue": 25326.4,
+        "units": 104
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000292",
+        "product_name": "Puzzle 292",
+        "revenue": 25143.72,
+        "units": 98
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000062",
+        "product_name": "Study Guide 062",
+        "revenue": 24832.5,
+        "units": 107
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000257",
+        "product_name": "Headphones 257",
+        "revenue": 24708.64,
+        "units": 114
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000395",
+        "product_name": "Biography 395",
+        "revenue": 24688.29,
+        "units": 95
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000450",
+        "product_name": "Headphones 450",
+        "revenue": 24684.34,
+        "units": 99
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000354",
+        "product_name": "Biography 354",
+        "revenue": 24612.53,
+        "units": 141
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000386",
+        "product_name": "Power Bank 386",
+        "revenue": 24487.5,
+        "units": 98
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000291",
+        "product_name": "Cricket Bat 291",
+        "revenue": 24486.8,
+        "units": 82
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000150",
+        "product_name": "Novel 150",
+        "revenue": 24287.15,
+        "units": 73
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000251",
+        "product_name": "Lamp 251",
+        "revenue": 24038.9,
+        "units": 84
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000038",
+        "product_name": "Building Blocks 038",
+        "revenue": 24001.8,
+        "units": 92
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000402",
+        "product_name": "Shampoo 402",
+        "revenue": 23894.5,
+        "units": 109
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000057",
+        "product_name": "Keyboard 057",
+        "revenue": 23848.62,
+        "units": 120
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000202",
+        "product_name": "Cricket Bat 202",
+        "revenue": 23838.48,
+        "units": 98
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000139",
+        "product_name": "Lamp 139",
+        "revenue": 23801.31,
+        "units": 132
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000374",
+        "product_name": "Strategy Game 374",
+        "revenue": 23729.28,
+        "units": 106
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000284",
+        "product_name": "Lamp 284",
+        "revenue": 23689.13,
+        "units": 103
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000408",
+        "product_name": "Sunscreen 408",
+        "revenue": 23616.4,
+        "units": 94
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000020",
+        "product_name": "Strategy Game 020",
+        "revenue": 23587.5,
+        "units": 95
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000343",
+        "product_name": "Bedsheet 343",
+        "revenue": 23564.86,
+        "units": 109
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000483",
+        "product_name": "Strategy Game 483",
+        "revenue": 23450.18,
+        "units": 110
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000221",
+        "product_name": "Puzzle 221",
+        "revenue": 23271.2,
+        "units": 100
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000264",
+        "product_name": "Football 264",
+        "revenue": 23188.6,
+        "units": 117
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000085",
+        "product_name": "Face Wash 085",
+        "revenue": 23034.78,
+        "units": 93
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000153",
+        "product_name": "Yoga Mat 153",
+        "revenue": 23030.0,
+        "units": 108
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000447",
+        "product_name": "Building Blocks 447",
+        "revenue": 23026.32,
+        "units": 74
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000174",
+        "product_name": "Novel 174",
+        "revenue": 22957.04,
+        "units": 87
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000263",
+        "product_name": "Moisturizer 263",
+        "revenue": 22947.12,
+        "units": 88
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000464",
+        "product_name": "Moisturizer 464",
+        "revenue": 22838.62,
+        "units": 94
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000230",
+        "product_name": "Building Blocks 230",
+        "revenue": 22805.31,
+        "units": 104
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000261",
+        "product_name": "Football 261",
+        "revenue": 22760.1,
+        "units": 81
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000277",
+        "product_name": "Shampoo 277",
+        "revenue": 22722.91,
+        "units": 91
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000500",
+        "product_name": "Power Bank 500",
+        "revenue": 22671.32,
+        "units": 98
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000088",
+        "product_name": "Power Bank 088",
+        "revenue": 22637.55,
+        "units": 98
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000173",
+        "product_name": "Strategy Game 173",
+        "revenue": 22592.44,
+        "units": 111
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000144",
+        "product_name": "Cookbook 144",
+        "revenue": 22552.8,
+        "units": 95
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000433",
+        "product_name": "Remote Car 433",
+        "revenue": 22552.62,
+        "units": 97
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000468",
+        "product_name": "Puzzle 468",
+        "revenue": 22327.68,
+        "units": 121
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000439",
+        "product_name": "Lamp 439",
+        "revenue": 22082.98,
+        "units": 116
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000172",
+        "product_name": "Puzzle 172",
+        "revenue": 21943.68,
+        "units": 121
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000209",
+        "product_name": "Shampoo 209",
+        "revenue": 21907.04,
+        "units": 100
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000345",
+        "product_name": "Biography 345",
+        "revenue": 21815.87,
+        "units": 82
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000269",
+        "product_name": "Cricket Bat 269",
+        "revenue": 21692.84,
+        "units": 83
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000435",
+        "product_name": "Cricket Bat 435",
+        "revenue": 21671.52,
+        "units": 99
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000220",
+        "product_name": "Sunscreen 220",
+        "revenue": 21604.0,
+        "units": 98
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000196",
+        "product_name": "Cricket Bat 196",
+        "revenue": 21543.52,
+        "units": 76
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000489",
+        "product_name": "Headphones 489",
+        "revenue": 21386.7,
+        "units": 93
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000414",
+        "product_name": "Puzzle 414",
+        "revenue": 21381.32,
+        "units": 79
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000466",
+        "product_name": "Moisturizer 466",
+        "revenue": 21215.2,
+        "units": 110
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000114",
+        "product_name": "Remote Car 114",
+        "revenue": 21039.62,
+        "units": 111
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000340",
+        "product_name": "Cricket Bat 340",
+        "revenue": 21018.09,
+        "units": 92
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000323",
+        "product_name": "Sunscreen 323",
+        "revenue": 20986.56,
+        "units": 116
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000318",
+        "product_name": "Strategy Game 318",
+        "revenue": 20882.38,
+        "units": 87
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000385",
+        "product_name": "Football 385",
+        "revenue": 20447.57,
+        "units": 109
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000333",
+        "product_name": "Building Blocks 333",
+        "revenue": 20419.02,
+        "units": 70
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000068",
+        "product_name": "Building Blocks 068",
+        "revenue": 20350.73,
+        "units": 93
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000228",
+        "product_name": "Bedsheet 228",
+        "revenue": 20298.08,
+        "units": 104
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000307",
+        "product_name": "Cookbook 307",
+        "revenue": 20291.28,
+        "units": 92
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000008",
+        "product_name": "Sunscreen 008",
+        "revenue": 20276.73,
+        "units": 111
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000246",
+        "product_name": "Webcam 246",
+        "revenue": 20161.84,
+        "units": 118
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000325",
+        "product_name": "Power Bank 325",
+        "revenue": 20120.69,
+        "units": 85
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000183",
+        "product_name": "Water Bottle 183",
+        "revenue": 20083.8,
+        "units": 75
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000369",
+        "product_name": "Lamp 369",
+        "revenue": 20083.76,
+        "units": 86
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000215",
+        "product_name": "Moisturizer 215",
+        "revenue": 19962.42,
+        "units": 123
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000241",
+        "product_name": "Sunscreen 241",
+        "revenue": 19947.6,
+        "units": 93
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000285",
+        "product_name": "Resistance Band 285",
+        "revenue": 19916.16,
+        "units": 83
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000019",
+        "product_name": "Lamp 019",
+        "revenue": 19853.4,
+        "units": 90
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000078",
+        "product_name": "Novel 078",
+        "revenue": 19848.75,
+        "units": 92
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000366",
+        "product_name": "Yoga Mat 366",
+        "revenue": 19808.64,
+        "units": 115
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000043",
+        "product_name": "Biography 043",
+        "revenue": 19805.0,
+        "units": 128
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000324",
+        "product_name": "Remote Car 324",
+        "revenue": 19726.5,
+        "units": 94
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000289",
+        "product_name": "Novel 289",
+        "revenue": 19628.2,
+        "units": 86
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000260",
+        "product_name": "Water Bottle 260",
+        "revenue": 19529.16,
+        "units": 96
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000130",
+        "product_name": "Lamp 130",
+        "revenue": 19512.35,
+        "units": 85
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000273",
+        "product_name": "Bedsheet 273",
+        "revenue": 19467.84,
+        "units": 96
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000407",
+        "product_name": "Cookbook 407",
+        "revenue": 19466.46,
+        "units": 101
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000086",
+        "product_name": "Storage Box 086",
+        "revenue": 19453.28,
+        "units": 109
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000359",
+        "product_name": "Storage Box 359",
+        "revenue": 19378.45,
+        "units": 112
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000460",
+        "product_name": "Study Guide 460",
+        "revenue": 19264.0,
+        "units": 81
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000373",
+        "product_name": "Lamp 373",
+        "revenue": 19095.48,
+        "units": 117
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000046",
+        "product_name": "Building Blocks 046",
+        "revenue": 18937.9,
+        "units": 87
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000233",
+        "product_name": "Bedsheet 233",
+        "revenue": 18626.42,
+        "units": 111
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000280",
+        "product_name": "Yoga Mat 280",
+        "revenue": 18613.56,
+        "units": 94
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000467",
+        "product_name": "Football 467",
+        "revenue": 18601.55,
+        "units": 79
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000451",
+        "product_name": "Football 451",
+        "revenue": 18578.88,
+        "units": 94
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000089",
+        "product_name": "Shampoo 089",
+        "revenue": 18501.21,
+        "units": 130
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000243",
+        "product_name": "Study Guide 243",
+        "revenue": 18316.53,
+        "units": 103
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000441",
+        "product_name": "Face Wash 441",
+        "revenue": 18304.82,
+        "units": 110
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000406",
+        "product_name": "Webcam 406",
+        "revenue": 18289.81,
+        "units": 91
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000234",
+        "product_name": "Resistance Band 234",
+        "revenue": 18288.82,
+        "units": 96
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000216",
+        "product_name": "Shampoo 216",
+        "revenue": 18218.46,
+        "units": 97
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000410",
+        "product_name": "Storage Box 410",
+        "revenue": 18218.3,
+        "units": 116
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000035",
+        "product_name": "Building Blocks 035",
+        "revenue": 18204.28,
+        "units": 87
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000097",
+        "product_name": "Yoga Mat 097",
+        "revenue": 18138.75,
+        "units": 93
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000334",
+        "product_name": "Water Bottle 334",
+        "revenue": 18081.5,
+        "units": 92
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000384",
+        "product_name": "Novel 384",
+        "revenue": 18068.49,
+        "units": 116
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000481",
+        "product_name": "Novel 481",
+        "revenue": 18063.7,
+        "units": 94
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000485",
+        "product_name": "Storage Box 485",
+        "revenue": 17972.4,
+        "units": 125
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000189",
+        "product_name": "Sunscreen 189",
+        "revenue": 17844.43,
+        "units": 91
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000231",
+        "product_name": "Webcam 231",
+        "revenue": 17828.44,
+        "units": 95
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000490",
+        "product_name": "Cricket Bat 490",
+        "revenue": 17796.33,
+        "units": 92
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000347",
+        "product_name": "Bedsheet 347",
+        "revenue": 17786.16,
+        "units": 80
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000191",
+        "product_name": "Novel 191",
+        "revenue": 17737.06,
+        "units": 87
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000199",
+        "product_name": "Lamp 199",
+        "revenue": 17686.8,
+        "units": 107
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000063",
+        "product_name": "Puzzle 063",
+        "revenue": 17621.8,
+        "units": 97
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000415",
+        "product_name": "Resistance Band 415",
+        "revenue": 17485.26,
+        "units": 102
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000047",
+        "product_name": "Bedsheet 047",
+        "revenue": 17399.62,
+        "units": 93
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000249",
+        "product_name": "Resistance Band 249",
+        "revenue": 17346.15,
+        "units": 95
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000156",
+        "product_name": "Keyboard 156",
+        "revenue": 17161.47,
+        "units": 99
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000375",
+        "product_name": "Cricket Bat 375",
+        "revenue": 17100.98,
+        "units": 95
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000217",
+        "product_name": "Webcam 217",
+        "revenue": 16931.97,
+        "units": 110
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000436",
+        "product_name": "Power Bank 436",
+        "revenue": 16745.04,
+        "units": 123
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000204",
+        "product_name": "Bedsheet 204",
+        "revenue": 16714.44,
+        "units": 109
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000076",
+        "product_name": "Bedsheet 076",
+        "revenue": 16694.32,
+        "units": 98
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000304",
+        "product_name": "Keyboard 304",
+        "revenue": 16613.52,
+        "units": 103
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000124",
+        "product_name": "Strategy Game 124",
+        "revenue": 16563.44,
+        "units": 96
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000293",
+        "product_name": "Moisturizer 293",
+        "revenue": 16545.36,
+        "units": 122
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000041",
+        "product_name": "Lamp 041",
+        "revenue": 16523.54,
+        "units": 94
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000045",
+        "product_name": "Football 045",
+        "revenue": 16473.0,
+        "units": 128
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000320",
+        "product_name": "Football 320",
+        "revenue": 16433.72,
+        "units": 88
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000169",
+        "product_name": "Moisturizer 169",
+        "revenue": 16390.08,
+        "units": 99
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000459",
+        "product_name": "Remote Car 459",
+        "revenue": 16276.05,
+        "units": 67
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000117",
+        "product_name": "Building Blocks 117",
+        "revenue": 16211.55,
+        "units": 88
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000123",
+        "product_name": "Lamp 123",
+        "revenue": 16187.05,
+        "units": 70
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000429",
+        "product_name": "Power Bank 429",
+        "revenue": 16149.6,
+        "units": 97
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000007",
+        "product_name": "Puzzle 007",
+        "revenue": 16067.74,
+        "units": 76
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000412",
+        "product_name": "Storage Box 412",
+        "revenue": 16044.0,
+        "units": 91
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000159",
+        "product_name": "Keyboard 159",
+        "revenue": 16021.53,
+        "units": 88
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000328",
+        "product_name": "Novel 328",
+        "revenue": 16019.28,
+        "units": 90
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000300",
+        "product_name": "Moisturizer 300",
+        "revenue": 16002.2,
+        "units": 87
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000352",
+        "product_name": "Building Blocks 352",
+        "revenue": 15495.3,
+        "units": 125
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000100",
+        "product_name": "Puzzle 100",
+        "revenue": 15344.8,
+        "units": 92
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000116",
+        "product_name": "Yoga Mat 116",
+        "revenue": 15031.8,
+        "units": 92
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000364",
+        "product_name": "Webcam 364",
+        "revenue": 15006.06,
+        "units": 77
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000192",
+        "product_name": "Face Wash 192",
+        "revenue": 14783.28,
+        "units": 99
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000240",
+        "product_name": "Headphones 240",
+        "revenue": 14700.69,
+        "units": 95
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000361",
+        "product_name": "Face Wash 361",
+        "revenue": 14699.79,
+        "units": 81
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000379",
+        "product_name": "Lamp 379",
+        "revenue": 14404.84,
+        "units": 89
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000423",
+        "product_name": "Biography 423",
+        "revenue": 14396.58,
+        "units": 112
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000198",
+        "product_name": "Face Wash 198",
+        "revenue": 14378.92,
+        "units": 107
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000288",
+        "product_name": "Resistance Band 288",
+        "revenue": 14289.76,
+        "units": 83
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000252",
+        "product_name": "Study Guide 252",
+        "revenue": 14286.04,
+        "units": 94
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000206",
+        "product_name": "Cookbook 206",
+        "revenue": 14187.69,
+        "units": 112
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000222",
+        "product_name": "Yoga Mat 222",
+        "revenue": 14072.16,
+        "units": 68
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000262",
+        "product_name": "Face Wash 262",
+        "revenue": 13947.99,
+        "units": 134
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000037",
+        "product_name": "Yoga Mat 037",
+        "revenue": 13773.4,
+        "units": 111
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000232",
+        "product_name": "Sunscreen 232",
+        "revenue": 13709.98,
+        "units": 116
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000111",
+        "product_name": "Cookbook 111",
+        "revenue": 13617.48,
+        "units": 82
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000446",
+        "product_name": "Puzzle 446",
+        "revenue": 13544.24,
+        "units": 84
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000276",
+        "product_name": "Power Bank 276",
+        "revenue": 13480.12,
+        "units": 107
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000397",
+        "product_name": "Biography 397",
+        "revenue": 13340.8,
+        "units": 103
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000211",
+        "product_name": "Lamp 211",
+        "revenue": 13328.64,
+        "units": 107
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000368",
+        "product_name": "Keyboard 368",
+        "revenue": 12976.2,
+        "units": 73
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000002",
+        "product_name": "Biography 002",
+        "revenue": 12961.5,
+        "units": 87
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000312",
+        "product_name": "Power Bank 312",
+        "revenue": 12875.14,
+        "units": 82
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000108",
+        "product_name": "Yoga Mat 108",
+        "revenue": 12853.12,
+        "units": 84
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000258",
+        "product_name": "Biography 258",
+        "revenue": 12799.08,
+        "units": 85
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000309",
+        "product_name": "Cookbook 309",
+        "revenue": 12792.86,
+        "units": 93
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000319",
+        "product_name": "Storage Box 319",
+        "revenue": 12652.8,
+        "units": 66
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000128",
+        "product_name": "Moisturizer 128",
+        "revenue": 12556.76,
+        "units": 122
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000338",
+        "product_name": "Football 338",
+        "revenue": 12554.4,
+        "units": 102
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000223",
+        "product_name": "Water Bottle 223",
+        "revenue": 12544.56,
+        "units": 79
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000105",
+        "product_name": "Storage Box 105",
+        "revenue": 12521.6,
+        "units": 112
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000405",
+        "product_name": "Keyboard 405",
+        "revenue": 12512.24,
+        "units": 83
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000329",
+        "product_name": "Remote Car 329",
+        "revenue": 12503.04,
+        "units": 118
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000497",
+        "product_name": "Cookbook 497",
+        "revenue": 12478.05,
+        "units": 103
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000195",
+        "product_name": "Building Blocks 195",
+        "revenue": 12440.22,
+        "units": 112
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000336",
+        "product_name": "Bedsheet 336",
+        "revenue": 12364.44,
+        "units": 84
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000145",
+        "product_name": "Shampoo 145",
+        "revenue": 12301.64,
+        "units": 96
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000363",
+        "product_name": "Bedsheet 363",
+        "revenue": 12287.01,
+        "units": 97
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000118",
+        "product_name": "Moisturizer 118",
+        "revenue": 12222.0,
+        "units": 85
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000476",
+        "product_name": "Puzzle 476",
+        "revenue": 12152.57,
+        "units": 106
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000147",
+        "product_name": "Study Guide 147",
+        "revenue": 11989.66,
+        "units": 107
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000029",
+        "product_name": "Sunscreen 029",
+        "revenue": 11795.58,
+        "units": 81
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000488",
+        "product_name": "Building Blocks 488",
+        "revenue": 11778.06,
+        "units": 104
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000244",
+        "product_name": "Moisturizer 244",
+        "revenue": 11760.46,
+        "units": 105
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000170",
+        "product_name": "Football 170",
+        "revenue": 11746.43,
+        "units": 84
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000294",
+        "product_name": "Power Bank 294",
+        "revenue": 11739.91,
+        "units": 115
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000315",
+        "product_name": "Water Bottle 315",
+        "revenue": 11694.41,
+        "units": 106
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000074",
+        "product_name": "Cookbook 074",
+        "revenue": 11683.59,
+        "units": 116
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000177",
+        "product_name": "Lamp 177",
+        "revenue": 11667.84,
+        "units": 115
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000079",
+        "product_name": "Moisturizer 079",
+        "revenue": 11639.07,
+        "units": 102
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000281",
+        "product_name": "Football 281",
+        "revenue": 11393.37,
+        "units": 86
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000372",
+        "product_name": "Novel 372",
+        "revenue": 11334.44,
+        "units": 87
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000039",
+        "product_name": "Keyboard 039",
+        "revenue": 11305.35,
+        "units": 109
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000482",
+        "product_name": "Cricket Bat 482",
+        "revenue": 11257.82,
+        "units": 114
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000409",
+        "product_name": "Remote Car 409",
+        "revenue": 11171.04,
+        "units": 87
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000456",
+        "product_name": "Keyboard 456",
+        "revenue": 10820.5,
+        "units": 108
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000099",
+        "product_name": "Bedsheet 099",
+        "revenue": 10804.83,
+        "units": 114
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000187",
+        "product_name": "Webcam 187",
+        "revenue": 10768.56,
+        "units": 98
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000094",
+        "product_name": "Sunscreen 094",
+        "revenue": 10615.23,
+        "units": 100
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000391",
+        "product_name": "Cookbook 391",
+        "revenue": 10479.84,
+        "units": 93
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000242",
+        "product_name": "Remote Car 242",
+        "revenue": 10300.08,
+        "units": 110
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000012",
+        "product_name": "Shampoo 012",
+        "revenue": 10277.4,
+        "units": 124
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000491",
+        "product_name": "Strategy Game 491",
+        "revenue": 10253.79,
+        "units": 86
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000295",
+        "product_name": "Webcam 295",
+        "revenue": 10188.71,
+        "units": 84
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000390",
+        "product_name": "Puzzle 390",
+        "revenue": 9992.4,
+        "units": 103
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000256",
+        "product_name": "Webcam 256",
+        "revenue": 9910.47,
+        "units": 84
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000126",
+        "product_name": "Keyboard 126",
+        "revenue": 9809.28,
+        "units": 103
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000394",
+        "product_name": "Face Wash 394",
+        "revenue": 9792.82,
+        "units": 91
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000148",
+        "product_name": "Headphones 148",
+        "revenue": 9706.84,
+        "units": 68
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000048",
+        "product_name": "Storage Box 048",
+        "revenue": 9677.99,
+        "units": 71
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000484",
+        "product_name": "Puzzle 484",
+        "revenue": 9638.5,
+        "units": 86
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000271",
+        "product_name": "Lamp 271",
+        "revenue": 9623.25,
+        "units": 86
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000084",
+        "product_name": "Biography 084",
+        "revenue": 9581.88,
+        "units": 88
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000461",
+        "product_name": "Headphones 461",
+        "revenue": 9574.23,
+        "units": 74
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000426",
+        "product_name": "Shampoo 426",
+        "revenue": 9360.36,
+        "units": 99
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000350",
+        "product_name": "Strategy Game 350",
+        "revenue": 9319.84,
+        "units": 73
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000404",
+        "product_name": "Cricket Bat 404",
+        "revenue": 9297.54,
+        "units": 117
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000075",
+        "product_name": "Resistance Band 075",
+        "revenue": 9138.6,
+        "units": 89
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000365",
+        "product_name": "Biography 365",
+        "revenue": 8878.72,
+        "units": 81
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000158",
+        "product_name": "Storage Box 158",
+        "revenue": 8807.89,
+        "units": 96
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000166",
+        "product_name": "Face Wash 166",
+        "revenue": 8788.65,
+        "units": 81
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000348",
+        "product_name": "Novel 348",
+        "revenue": 8779.2,
+        "units": 82
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000371",
+        "product_name": "Cricket Bat 371",
+        "revenue": 8668.88,
+        "units": 104
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000327",
+        "product_name": "Shampoo 327",
+        "revenue": 8636.56,
+        "units": 115
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000272",
+        "product_name": "Football 272",
+        "revenue": 8472.2,
+        "units": 141
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000302",
+        "product_name": "Building Blocks 302",
+        "revenue": 8388.0,
+        "units": 74
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000161",
+        "product_name": "Storage Box 161",
+        "revenue": 8238.73,
+        "units": 96
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000052",
+        "product_name": "Webcam 052",
+        "revenue": 8231.85,
+        "units": 118
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000022",
+        "product_name": "Keyboard 022",
+        "revenue": 8116.65,
+        "units": 99
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000092",
+        "product_name": "Puzzle 092",
+        "revenue": 8090.46,
+        "units": 90
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000083",
+        "product_name": "Face Wash 083",
+        "revenue": 7992.6,
+        "units": 77
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000317",
+        "product_name": "Yoga Mat 317",
+        "revenue": 7849.05,
+        "units": 87
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000200",
+        "product_name": "Remote Car 200",
+        "revenue": 7818.3,
+        "units": 114
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000016",
+        "product_name": "Sunscreen 016",
+        "revenue": 7752.0,
+        "units": 134
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000149",
+        "product_name": "Yoga Mat 149",
+        "revenue": 7716.35,
+        "units": 112
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000349",
+        "product_name": "Cookbook 349",
+        "revenue": 7656.12,
+        "units": 125
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000428",
+        "product_name": "Power Bank 428",
+        "revenue": 7636.44,
+        "units": 96
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000175",
+        "product_name": "Headphones 175",
+        "revenue": 7565.25,
+        "units": 102
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000018",
+        "product_name": "Novel 018",
+        "revenue": 7516.74,
+        "units": 80
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000226",
+        "product_name": "Cookbook 226",
+        "revenue": 7453.95,
+        "units": 112
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000103",
+        "product_name": "Cricket Bat 103",
+        "revenue": 7400.82,
+        "units": 80
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000190",
+        "product_name": "Sunscreen 190",
+        "revenue": 7387.2,
+        "units": 70
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000164",
+        "product_name": "Webcam 164",
+        "revenue": 7381.4,
+        "units": 145
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000473",
+        "product_name": "Yoga Mat 473",
+        "revenue": 7378.0,
+        "units": 101
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000135",
+        "product_name": "Biography 135",
+        "revenue": 7350.42,
+        "units": 111
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000337",
+        "product_name": "Study Guide 337",
+        "revenue": 7190.82,
+        "units": 79
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000180",
+        "product_name": "Face Wash 180",
+        "revenue": 7186.35,
+        "units": 87
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000370",
+        "product_name": "Sunscreen 370",
+        "revenue": 6904.17,
+        "units": 96
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000194",
+        "product_name": "Biography 194",
+        "revenue": 6876.1,
+        "units": 78
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000081",
+        "product_name": "Biography 081",
+        "revenue": 6818.12,
+        "units": 111
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000064",
+        "product_name": "Water Bottle 064",
+        "revenue": 6696.36,
+        "units": 84
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000014",
+        "product_name": "Webcam 014",
+        "revenue": 6655.2,
+        "units": 108
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000382",
+        "product_name": "Puzzle 382",
+        "revenue": 6580.64,
+        "units": 106
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000095",
+        "product_name": "Headphones 095",
+        "revenue": 6432.0,
+        "units": 93
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000253",
+        "product_name": "Study Guide 253",
+        "revenue": 6412.88,
+        "units": 95
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000431",
+        "product_name": "Bedsheet 431",
+        "revenue": 6311.76,
+        "units": 112
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000403",
+        "product_name": "Football 403",
+        "revenue": 6298.04,
+        "units": 108
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000071",
+        "product_name": "Power Bank 071",
+        "revenue": 6266.16,
+        "units": 101
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000296",
+        "product_name": "Face Wash 296",
+        "revenue": 6253.65,
+        "units": 93
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000283",
+        "product_name": "Study Guide 283",
+        "revenue": 6137.24,
+        "units": 92
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000445",
+        "product_name": "Webcam 445",
+        "revenue": 6122.46,
+        "units": 94
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000212",
+        "product_name": "Cricket Bat 212",
+        "revenue": 6111.6,
+        "units": 79
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000050",
+        "product_name": "Face Wash 050",
+        "revenue": 6087.6,
+        "units": 110
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000398",
+        "product_name": "Keyboard 398",
+        "revenue": 6035.35,
+        "units": 102
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000229",
+        "product_name": "Strategy Game 229",
+        "revenue": 5880.0,
+        "units": 96
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000495",
+        "product_name": "Power Bank 495",
+        "revenue": 5790.2,
+        "units": 116
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000299",
+        "product_name": "Moisturizer 299",
+        "revenue": 5776.68,
+        "units": 117
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000478",
+        "product_name": "Keyboard 478",
+        "revenue": 5757.48,
+        "units": 106
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000142",
+        "product_name": "Biography 142",
+        "revenue": 5674.4,
+        "units": 95
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000069",
+        "product_name": "Sunscreen 069",
+        "revenue": 5613.0,
+        "units": 107
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000356",
+        "product_name": "Webcam 356",
+        "revenue": 5558.64,
+        "units": 84
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000133",
+        "product_name": "Bedsheet 133",
+        "revenue": 5483.4,
+        "units": 102
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000305",
+        "product_name": "Headphones 305",
+        "revenue": 5358.4,
+        "units": 83
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000205",
+        "product_name": "Strategy Game 205",
+        "revenue": 5306.4,
+        "units": 109
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000360",
+        "product_name": "Lamp 360",
+        "revenue": 5282.75,
+        "units": 111
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000297",
+        "product_name": "Building Blocks 297",
+        "revenue": 5153.61,
+        "units": 83
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000298",
+        "product_name": "Cricket Bat 298",
+        "revenue": 5123.36,
+        "units": 81
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000499",
+        "product_name": "Power Bank 499",
+        "revenue": 5099.0,
+        "units": 123
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000227",
+        "product_name": "Webcam 227",
+        "revenue": 4981.0,
+        "units": 117
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000248",
+        "product_name": "Resistance Band 248",
+        "revenue": 4980.12,
+        "units": 96
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000009",
+        "product_name": "Resistance Band 009",
+        "revenue": 4962.26,
+        "units": 102
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000326",
+        "product_name": "Moisturizer 326",
+        "revenue": 4909.41,
+        "units": 119
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000134",
+        "product_name": "Building Blocks 134",
+        "revenue": 4873.55,
+        "units": 83
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000381",
+        "product_name": "Football 381",
+        "revenue": 4780.1,
+        "units": 91
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000176",
+        "product_name": "Cookbook 176",
+        "revenue": 4619.12,
+        "units": 99
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000030",
+        "product_name": "Building Blocks 030",
+        "revenue": 4493.5,
+        "units": 98
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000493",
+        "product_name": "Resistance Band 493",
+        "revenue": 4462.0,
+        "units": 110
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000065",
+        "product_name": "Novel 065",
+        "revenue": 4401.28,
+        "units": 92
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000185",
+        "product_name": "Power Bank 185",
+        "revenue": 4045.6,
+        "units": 77
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000425",
+        "product_name": "Water Bottle 425",
+        "revenue": 4044.3,
+        "units": 85
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000266",
+        "product_name": "Cricket Bat 266",
+        "revenue": 4039.88,
+        "units": 98
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000023",
+        "product_name": "Remote Car 023",
+        "revenue": 3992.67,
+        "units": 128
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000140",
+        "product_name": "Keyboard 140",
+        "revenue": 3705.6,
+        "units": 104
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000448",
+        "product_name": "Headphones 448",
+        "revenue": 3679.2,
+        "units": 104
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000301",
+        "product_name": "Study Guide 301",
+        "revenue": 3664.6,
+        "units": 85
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000157",
+        "product_name": "Water Bottle 157",
+        "revenue": 3549.7,
+        "units": 97
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000168",
+        "product_name": "Headphones 168",
+        "revenue": 3405.49,
+        "units": 91
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000335",
+        "product_name": "Keyboard 335",
+        "revenue": 3280.35,
+        "units": 111
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000494",
+        "product_name": "Strategy Game 494",
+        "revenue": 3244.81,
+        "units": 98
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000040",
+        "product_name": "Power Bank 040",
+        "revenue": 3146.15,
+        "units": 114
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000236",
+        "product_name": "Football 236",
+        "revenue": 2958.72,
+        "units": 79
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000475",
+        "product_name": "Bedsheet 475",
+        "revenue": 2922.99,
+        "units": 114
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000353",
+        "product_name": "Novel 353",
+        "revenue": 2875.84,
+        "units": 89
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000059",
+        "product_name": "Power Bank 059",
+        "revenue": 2865.37,
+        "units": 107
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000421",
+        "product_name": "Resistance Band 421",
+        "revenue": 2859.15,
+        "units": 74
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000090",
+        "product_name": "Webcam 090",
+        "revenue": 2839.2,
+        "units": 75
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000197",
+        "product_name": "Bedsheet 197",
+        "revenue": 2744.54,
+        "units": 101
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000419",
+        "product_name": "Building Blocks 419",
+        "revenue": 2705.82,
+        "units": 104
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000193",
+        "product_name": "Cricket Bat 193",
+        "revenue": 2687.4,
+        "units": 75
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000440",
+        "product_name": "Water Bottle 440",
+        "revenue": 2556.8,
+        "units": 77
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000463",
+        "product_name": "Study Guide 463",
+        "revenue": 2393.6,
+        "units": 87
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000091",
+        "product_name": "Headphones 091",
+        "revenue": 2339.28,
+        "units": 88
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000254",
+        "product_name": "Building Blocks 254",
+        "revenue": 2331.0,
+        "units": 108
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000129",
+        "product_name": "Puzzle 129",
+        "revenue": 2232.5,
+        "units": 63
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000322",
+        "product_name": "Lamp 322",
+        "revenue": 2218.12,
+        "units": 106
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000438",
+        "product_name": "Yoga Mat 438",
+        "revenue": 2150.06,
+        "units": 66
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000219",
+        "product_name": "Study Guide 219",
+        "revenue": 1955.1,
+        "units": 88
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000310",
+        "product_name": "Cookbook 310",
+        "revenue": 1876.16,
+        "units": 109
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000060",
+        "product_name": "Storage Box 060",
+        "revenue": 1793.3,
+        "units": 109
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000393",
+        "product_name": "Storage Box 393",
+        "revenue": 1672.41,
+        "units": 130
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000278",
+        "product_name": "Study Guide 278",
+        "revenue": 1638.0,
+        "units": 103
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000290",
+        "product_name": "Resistance Band 290",
+        "revenue": 1496.28,
+        "units": 97
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000077",
+        "product_name": "Webcam 077",
+        "revenue": 1301.76,
+        "units": 118
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000141",
+        "product_name": "Face Wash 141",
+        "revenue": 1286.28,
+        "units": 100
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000416",
+        "product_name": "Biography 416",
+        "revenue": 1195.6,
+        "units": 114
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000250",
+        "product_name": "Remote Car 250",
+        "revenue": 1128.0,
+        "units": 126
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000392",
+        "product_name": "Lamp 392",
+        "revenue": 950.36,
+        "units": 104
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000182",
+        "product_name": "Resistance Band 182",
+        "revenue": 938.33,
+        "units": 115
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000401",
+        "product_name": "Sunscreen 401",
+        "revenue": 836.99,
+        "units": 100
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000013",
+        "product_name": "Power Bank 013",
+        "revenue": 785.85,
+        "units": 113
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000136",
+        "product_name": "Cricket Bat 136",
+        "revenue": 724.46,
+        "units": 99
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000213",
+        "product_name": "Bedsheet 213",
+        "revenue": 695.02,
+        "units": 76
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000247",
+        "product_name": "Football 247",
+        "revenue": 687.69,
+        "units": 110
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000462",
+        "product_name": "Football 462",
+        "revenue": 681.54,
+        "units": 91
+      },
+      {
+        "category": "toys",
+        "product_id": "PROD000275",
+        "product_name": "Strategy Game 275",
+        "revenue": 522.75,
+        "units": 107
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000465",
+        "product_name": "Storage Box 465",
+        "revenue": 509.44,
+        "units": 88
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000418",
+        "product_name": "Storage Box 418",
+        "revenue": 377.72,
+        "units": 87
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000044",
+        "product_name": "Moisturizer 044",
+        "revenue": 300.15,
+        "units": 95
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000155",
+        "product_name": "Face Wash 155",
+        "revenue": 272.8,
+        "units": 95
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000143",
+        "product_name": "Lamp 143",
+        "revenue": 216.84,
+        "units": 98
+      },
+      {
+        "category": "electronics",
+        "product_id": "PROD000113",
+        "product_name": "Headphones 113",
+        "revenue": 205.9,
+        "units": 86
+      }
+    ]
+  },
+  "metadata": {
+    "dataset": "deterministic synthetic e-commerce data",
+    "fact_rows": 25122,
+    "generated_at": "2026-10-21T07:26:56.183235+00:00"
+  },
+  "results": {
+    "average_order_value": [
+      {
+        "average_order_value": 1104.31,
+        "included_orders": 9041
+      }
+    ],
+    "cancelled_order_percentage": [
+      {
+        "cancelled_order_percentage": 5.94,
+        "cancelled_orders": 594,
+        "total_orders": 10000
+      }
+    ],
+    "category_performance": [
+      {
+        "category": "electronics",
+        "order_count": 4045,
+        "revenue": 1870998.42,
+        "units": 9740
+      },
+      {
+        "category": "beauty",
+        "order_count": 3591,
+        "revenue": 1758398.06,
+        "units": 8402
+      },
+      {
+        "category": "books",
+        "order_count": 3426,
+        "revenue": 1657331.34,
+        "units": 7979
+      },
+      {
+        "category": "home",
+        "order_count": 3618,
+        "revenue": 1645089.02,
+        "units": 8555
+      },
+      {
+        "category": "toys",
+        "order_count": 3286,
+        "revenue": 1553579.84,
+        "units": 7729
+      },
+      {
+        "category": "sports",
+        "order_count": 3403,
+        "revenue": 1498657.74,
+        "units": 7827
+      }
+    ],
+    "category_revenue_contribution": [
+      {
+        "category": "electronics",
+        "contribution_percentage": 18.74,
+        "revenue": 1870998.42
+      },
+      {
+        "category": "beauty",
+        "contribution_percentage": 17.61,
+        "revenue": 1758398.06
+      },
+      {
+        "category": "books",
+        "contribution_percentage": 16.6,
+        "revenue": 1657331.34
+      },
+      {
+        "category": "home",
+        "contribution_percentage": 16.48,
+        "revenue": 1645089.02
+      },
+      {
+        "category": "toys",
+        "contribution_percentage": 15.56,
+        "revenue": 1553579.84
+      },
+      {
+        "category": "sports",
+        "contribution_percentage": 15.01,
+        "revenue": 1498657.74
+      }
+    ],
+    "highest_value_customers": [
+      {
+        "customer_id": "CUST0000173",
+        "customer_name": "Kavya Patel",
+        "lifetime_value": 17733.95,
+        "order_count": 10
+      },
+      {
+        "customer_id": "CUST0001239",
+        "customer_name": "Aditi Garcia",
+        "lifetime_value": 16261.33,
+        "order_count": 15
+      },
+      {
+        "customer_id": "CUST0001078",
+        "customer_name": "Aarav Patel",
+        "lifetime_value": 15706.34,
+        "order_count": 13
+      },
+      {
+        "customer_id": "CUST0001935",
+        "customer_name": "Liam Mehta",
+        "lifetime_value": 15570.39,
+        "order_count": 12
+      },
+      {
+        "customer_id": "CUST0001394",
+        "customer_name": "Liam Kumar",
+        "lifetime_value": 15271.2,
+        "order_count": 10
+      },
+      {
+        "customer_id": "CUST0001359",
+        "customer_name": "Daniel Singh",
+        "lifetime_value": 14726.09,
+        "order_count": 9
+      },
+      {
+        "customer_id": "CUST0001892",
+        "customer_name": "Elena Shah",
+        "lifetime_value": 14530.37,
+        "order_count": 11
+      },
+      {
+        "customer_id": "CUST0000047",
+        "customer_name": "Arjun Kumar",
+        "lifetime_value": 14524.27,
+        "order_count": 11
+      },
+      {
+        "customer_id": "CUST0001075",
+        "customer_name": "Aditi Chen",
+        "lifetime_value": 14390.74,
+        "order_count": 9
+      },
+      {
+        "customer_id": "CUST0000054",
+        "customer_name": "Kavya Kim",
+        "lifetime_value": 14323.0,
+        "order_count": 13
+      }
+    ],
+    "orders_processed_per_day": [
+      {
+        "order_count": 30,
+        "order_date": "2025-01-01",
+        "revenue": 32465.32
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-01-02",
+        "revenue": 28851.82
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-01-03",
+        "revenue": 29588.96
+      },
+      {
+        "order_count": 22,
+        "order_date": "2025-01-04",
+        "revenue": 12903.49
+      },
+      {
+        "order_count": 33,
+        "order_date": "2025-01-05",
+        "revenue": 26088.2
+      },
+      {
+        "order_count": 30,
+        "order_date": "2025-01-06",
+        "revenue": 30329.72
+      },
+      {
+        "order_count": 20,
+        "order_date": "2025-01-07",
+        "revenue": 16393.4
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-01-08",
+        "revenue": 24696.53
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-01-09",
+        "revenue": 28763.04
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-01-10",
+        "revenue": 32245.0
+      },
+      {
+        "order_count": 30,
+        "order_date": "2025-01-11",
+        "revenue": 22615.99
+      },
+      {
+        "order_count": 21,
+        "order_date": "2025-01-12",
+        "revenue": 24506.86
+      },
+      {
+        "order_count": 20,
+        "order_date": "2025-01-13",
+        "revenue": 16376.5
+      },
+      {
+        "order_count": 32,
+        "order_date": "2025-01-14",
+        "revenue": 33412.09
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-01-15",
+        "revenue": 25695.73
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-01-16",
+        "revenue": 26896.07
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-01-17",
+        "revenue": 34176.58
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-01-18",
+        "revenue": 28905.25
+      },
+      {
+        "order_count": 32,
+        "order_date": "2025-01-19",
+        "revenue": 21755.55
+      },
+      {
+        "order_count": 21,
+        "order_date": "2025-01-20",
+        "revenue": 33400.31
+      },
+      {
+        "order_count": 21,
+        "order_date": "2025-01-21",
+        "revenue": 18613.16
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-01-22",
+        "revenue": 25201.36
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-01-23",
+        "revenue": 22295.69
+      },
+      {
+        "order_count": 19,
+        "order_date": "2025-01-24",
+        "revenue": 24557.5
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-01-25",
+        "revenue": 27910.52
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-01-26",
+        "revenue": 23042.36
+      },
+      {
+        "order_count": 21,
+        "order_date": "2025-01-27",
+        "revenue": 18338.37
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-01-28",
+        "revenue": 28482.39
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-01-29",
+        "revenue": 29568.61
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-01-30",
+        "revenue": 23909.22
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-01-31",
+        "revenue": 32614.03
+      },
+      {
+        "order_count": 19,
+        "order_date": "2025-02-01",
+        "revenue": 16971.13
+      },
+      {
+        "order_count": 19,
+        "order_date": "2025-02-02",
+        "revenue": 24825.6
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-02-03",
+        "revenue": 24023.03
+      },
+      {
+        "order_count": 23,
+        "order_date": "2025-02-04",
+        "revenue": 21330.3
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-02-05",
+        "revenue": 31556.71
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-02-06",
+        "revenue": 16891.42
+      },
+      {
+        "order_count": 33,
+        "order_date": "2025-02-07",
+        "revenue": 43699.41
+      },
+      {
+        "order_count": 22,
+        "order_date": "2025-02-08",
+        "revenue": 22280.86
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-02-09",
+        "revenue": 28525.96
+      },
+      {
+        "order_count": 34,
+        "order_date": "2025-02-10",
+        "revenue": 44683.16
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-02-11",
+        "revenue": 26778.09
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-02-12",
+        "revenue": 18102.33
+      },
+      {
+        "order_count": 26,
+        "order_date": "2025-02-13",
+        "revenue": 20901.7
+      },
+      {
+        "order_count": 36,
+        "order_date": "2025-02-14",
+        "revenue": 42104.43
+      },
+      {
+        "order_count": 32,
+        "order_date": "2025-02-15",
+        "revenue": 31266.98
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-02-16",
+        "revenue": 23343.23
+      },
+      {
+        "order_count": 34,
+        "order_date": "2025-02-17",
+        "revenue": 37485.4
+      },
+      {
+        "order_count": 32,
+        "order_date": "2025-02-18",
+        "revenue": 28784.91
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-02-19",
+        "revenue": 32323.28
+      },
+      {
+        "order_count": 20,
+        "order_date": "2025-02-20",
+        "revenue": 23040.56
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-02-21",
+        "revenue": 29436.54
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-02-22",
+        "revenue": 27614.21
+      },
+      {
+        "order_count": 26,
+        "order_date": "2025-02-23",
+        "revenue": 33308.5
+      },
+      {
+        "order_count": 33,
+        "order_date": "2025-02-24",
+        "revenue": 36892.6
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-02-25",
+        "revenue": 25801.61
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-02-26",
+        "revenue": 24331.33
+      },
+      {
+        "order_count": 37,
+        "order_date": "2025-02-27",
+        "revenue": 34899.32
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-02-28",
+        "revenue": 33712.44
+      },
+      {
+        "order_count": 17,
+        "order_date": "2025-03-01",
+        "revenue": 14142.85
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-03-02",
+        "revenue": 28322.33
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-03-03",
+        "revenue": 33351.09
+      },
+      {
+        "order_count": 22,
+        "order_date": "2025-03-04",
+        "revenue": 19382.07
+      },
+      {
+        "order_count": 26,
+        "order_date": "2025-03-05",
+        "revenue": 20465.6
+      },
+      {
+        "order_count": 26,
+        "order_date": "2025-03-06",
+        "revenue": 29244.13
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-03-07",
+        "revenue": 28376.74
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-03-08",
+        "revenue": 32498.99
+      },
+      {
+        "order_count": 35,
+        "order_date": "2025-03-09",
+        "revenue": 36755.44
+      },
+      {
+        "order_count": 23,
+        "order_date": "2025-03-10",
+        "revenue": 25433.15
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-03-11",
+        "revenue": 17641.31
+      },
+      {
+        "order_count": 21,
+        "order_date": "2025-03-12",
+        "revenue": 19634.93
+      },
+      {
+        "order_count": 36,
+        "order_date": "2025-03-13",
+        "revenue": 35931.68
+      },
+      {
+        "order_count": 33,
+        "order_date": "2025-03-14",
+        "revenue": 51361.36
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-03-15",
+        "revenue": 26674.39
+      },
+      {
+        "order_count": 30,
+        "order_date": "2025-03-16",
+        "revenue": 31238.2
+      },
+      {
+        "order_count": 22,
+        "order_date": "2025-03-17",
+        "revenue": 21120.66
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-03-18",
+        "revenue": 36456.75
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-03-19",
+        "revenue": 23218.66
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-03-20",
+        "revenue": 26827.61
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-03-21",
+        "revenue": 23247.37
+      },
+      {
+        "order_count": 21,
+        "order_date": "2025-03-22",
+        "revenue": 19096.21
+      },
+      {
+        "order_count": 22,
+        "order_date": "2025-03-23",
+        "revenue": 21762.63
+      },
+      {
+        "order_count": 23,
+        "order_date": "2025-03-24",
+        "revenue": 23417.77
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-03-25",
+        "revenue": 28887.48
+      },
+      {
+        "order_count": 21,
+        "order_date": "2025-03-26",
+        "revenue": 26740.73
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-03-27",
+        "revenue": 18062.37
+      },
+      {
+        "order_count": 32,
+        "order_date": "2025-03-28",
+        "revenue": 38826.16
+      },
+      {
+        "order_count": 36,
+        "order_date": "2025-03-29",
+        "revenue": 34911.9
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-03-30",
+        "revenue": 27558.81
+      },
+      {
+        "order_count": 30,
+        "order_date": "2025-03-31",
+        "revenue": 15536.59
+      },
+      {
+        "order_count": 19,
+        "order_date": "2025-04-01",
+        "revenue": 26321.34
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-04-02",
+        "revenue": 21057.77
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-04-03",
+        "revenue": 32930.67
+      },
+      {
+        "order_count": 21,
+        "order_date": "2025-04-04",
+        "revenue": 18964.64
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-04-05",
+        "revenue": 31569.94
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-04-06",
+        "revenue": 30234.28
+      },
+      {
+        "order_count": 30,
+        "order_date": "2025-04-07",
+        "revenue": 16360.19
+      },
+      {
+        "order_count": 19,
+        "order_date": "2025-04-08",
+        "revenue": 13693.25
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-04-09",
+        "revenue": 34074.49
+      },
+      {
+        "order_count": 26,
+        "order_date": "2025-04-10",
+        "revenue": 28903.99
+      },
+      {
+        "order_count": 23,
+        "order_date": "2025-04-11",
+        "revenue": 17128.83
+      },
+      {
+        "order_count": 30,
+        "order_date": "2025-04-12",
+        "revenue": 31963.39
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-04-13",
+        "revenue": 19746.35
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-04-14",
+        "revenue": 22677.3
+      },
+      {
+        "order_count": 26,
+        "order_date": "2025-04-15",
+        "revenue": 24519.14
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-04-16",
+        "revenue": 23405.56
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-04-17",
+        "revenue": 31222.52
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-04-18",
+        "revenue": 24490.52
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-04-19",
+        "revenue": 26642.24
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-04-20",
+        "revenue": 17117.41
+      },
+      {
+        "order_count": 42,
+        "order_date": "2025-04-21",
+        "revenue": 33902.4
+      },
+      {
+        "order_count": 23,
+        "order_date": "2025-04-22",
+        "revenue": 22277.31
+      },
+      {
+        "order_count": 30,
+        "order_date": "2025-04-23",
+        "revenue": 25363.15
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-04-24",
+        "revenue": 23365.89
+      },
+      {
+        "order_count": 22,
+        "order_date": "2025-04-25",
+        "revenue": 18086.6
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-04-26",
+        "revenue": 34878.13
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-04-27",
+        "revenue": 30696.68
+      },
+      {
+        "order_count": 38,
+        "order_date": "2025-04-28",
+        "revenue": 35704.77
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-04-29",
+        "revenue": 32705.74
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-04-30",
+        "revenue": 29964.38
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-05-01",
+        "revenue": 28576.37
+      },
+      {
+        "order_count": 35,
+        "order_date": "2025-05-02",
+        "revenue": 26821.76
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-05-03",
+        "revenue": 27692.0
+      },
+      {
+        "order_count": 22,
+        "order_date": "2025-05-04",
+        "revenue": 26326.0
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-05-05",
+        "revenue": 28746.06
+      },
+      {
+        "order_count": 19,
+        "order_date": "2025-05-06",
+        "revenue": 18333.23
+      },
+      {
+        "order_count": 39,
+        "order_date": "2025-05-07",
+        "revenue": 37974.12
+      },
+      {
+        "order_count": 23,
+        "order_date": "2025-05-08",
+        "revenue": 22771.07
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-05-09",
+        "revenue": 21111.78
+      },
+      {
+        "order_count": 20,
+        "order_date": "2025-05-10",
+        "revenue": 18847.61
+      },
+      {
+        "order_count": 23,
+        "order_date": "2025-05-11",
+        "revenue": 25725.31
+      },
+      {
+        "order_count": 35,
+        "order_date": "2025-05-12",
+        "revenue": 34686.97
+      },
+      {
+        "order_count": 22,
+        "order_date": "2025-05-13",
+        "revenue": 18352.63
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-05-14",
+        "revenue": 21992.6
+      },
+      {
+        "order_count": 22,
+        "order_date": "2025-05-15",
+        "revenue": 19647.51
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-05-16",
+        "revenue": 25739.37
+      },
+      {
+        "order_count": 36,
+        "order_date": "2025-05-17",
+        "revenue": 44306.07
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-05-18",
+        "revenue": 23512.08
+      },
+      {
+        "order_count": 41,
+        "order_date": "2025-05-19",
+        "revenue": 41100.57
+      },
+      {
+        "order_count": 26,
+        "order_date": "2025-05-20",
+        "revenue": 27694.58
+      },
+      {
+        "order_count": 15,
+        "order_date": "2025-05-21",
+        "revenue": 8739.28
+      },
+      {
+        "order_count": 30,
+        "order_date": "2025-05-22",
+        "revenue": 36400.84
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-05-23",
+        "revenue": 27241.27
+      },
+      {
+        "order_count": 34,
+        "order_date": "2025-05-24",
+        "revenue": 34428.49
+      },
+      {
+        "order_count": 16,
+        "order_date": "2025-05-25",
+        "revenue": 20729.73
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-05-26",
+        "revenue": 19517.53
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-05-27",
+        "revenue": 20167.78
+      },
+      {
+        "order_count": 26,
+        "order_date": "2025-05-28",
+        "revenue": 23585.93
+      },
+      {
+        "order_count": 23,
+        "order_date": "2025-05-29",
+        "revenue": 31993.49
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-05-30",
+        "revenue": 29386.26
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-05-31",
+        "revenue": 26972.63
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-06-01",
+        "revenue": 27190.78
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-06-02",
+        "revenue": 34235.15
+      },
+      {
+        "order_count": 35,
+        "order_date": "2025-06-03",
+        "revenue": 36513.85
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-06-04",
+        "revenue": 35067.86
+      },
+      {
+        "order_count": 21,
+        "order_date": "2025-06-05",
+        "revenue": 16414.87
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-06-06",
+        "revenue": 24560.45
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-06-07",
+        "revenue": 28058.34
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-06-08",
+        "revenue": 25061.01
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-06-09",
+        "revenue": 22873.73
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-06-10",
+        "revenue": 27992.28
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-06-11",
+        "revenue": 28776.28
+      },
+      {
+        "order_count": 41,
+        "order_date": "2025-06-12",
+        "revenue": 38911.19
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-06-13",
+        "revenue": 21795.27
+      },
+      {
+        "order_count": 20,
+        "order_date": "2025-06-14",
+        "revenue": 19434.28
+      },
+      {
+        "order_count": 41,
+        "order_date": "2025-06-15",
+        "revenue": 34005.0
+      },
+      {
+        "order_count": 20,
+        "order_date": "2025-06-16",
+        "revenue": 23001.44
+      },
+      {
+        "order_count": 30,
+        "order_date": "2025-06-17",
+        "revenue": 25390.57
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-06-18",
+        "revenue": 20861.41
+      },
+      {
+        "order_count": 21,
+        "order_date": "2025-06-19",
+        "revenue": 33102.86
+      },
+      {
+        "order_count": 32,
+        "order_date": "2025-06-20",
+        "revenue": 29381.65
+      },
+      {
+        "order_count": 23,
+        "order_date": "2025-06-21",
+        "revenue": 19582.9
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-06-22",
+        "revenue": 23415.82
+      },
+      {
+        "order_count": 22,
+        "order_date": "2025-06-23",
+        "revenue": 24760.55
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-06-24",
+        "revenue": 34752.36
+      },
+      {
+        "order_count": 22,
+        "order_date": "2025-06-25",
+        "revenue": 19026.88
+      },
+      {
+        "order_count": 34,
+        "order_date": "2025-06-26",
+        "revenue": 35545.2
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-06-27",
+        "revenue": 10940.41
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-06-28",
+        "revenue": 23952.94
+      },
+      {
+        "order_count": 34,
+        "order_date": "2025-06-29",
+        "revenue": 38812.57
+      },
+      {
+        "order_count": 35,
+        "order_date": "2025-06-30",
+        "revenue": 30604.84
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-07-01",
+        "revenue": 30149.6
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-07-02",
+        "revenue": 34737.17
+      },
+      {
+        "order_count": 21,
+        "order_date": "2025-07-03",
+        "revenue": 22547.19
+      },
+      {
+        "order_count": 16,
+        "order_date": "2025-07-04",
+        "revenue": 10611.02
+      },
+      {
+        "order_count": 33,
+        "order_date": "2025-07-05",
+        "revenue": 33514.67
+      },
+      {
+        "order_count": 30,
+        "order_date": "2025-07-06",
+        "revenue": 31660.93
+      },
+      {
+        "order_count": 33,
+        "order_date": "2025-07-07",
+        "revenue": 39047.37
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-07-08",
+        "revenue": 20643.95
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-07-09",
+        "revenue": 29554.79
+      },
+      {
+        "order_count": 17,
+        "order_date": "2025-07-10",
+        "revenue": 11503.63
+      },
+      {
+        "order_count": 34,
+        "order_date": "2025-07-11",
+        "revenue": 43884.86
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-07-12",
+        "revenue": 20274.51
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-07-13",
+        "revenue": 13866.31
+      },
+      {
+        "order_count": 30,
+        "order_date": "2025-07-14",
+        "revenue": 38117.42
+      },
+      {
+        "order_count": 35,
+        "order_date": "2025-07-15",
+        "revenue": 32278.2
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-07-16",
+        "revenue": 25762.56
+      },
+      {
+        "order_count": 34,
+        "order_date": "2025-07-17",
+        "revenue": 34251.38
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-07-18",
+        "revenue": 36566.82
+      },
+      {
+        "order_count": 35,
+        "order_date": "2025-07-19",
+        "revenue": 29886.71
+      },
+      {
+        "order_count": 26,
+        "order_date": "2025-07-20",
+        "revenue": 21992.14
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-07-21",
+        "revenue": 18684.13
+      },
+      {
+        "order_count": 23,
+        "order_date": "2025-07-22",
+        "revenue": 20431.54
+      },
+      {
+        "order_count": 41,
+        "order_date": "2025-07-23",
+        "revenue": 28984.45
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-07-24",
+        "revenue": 32603.15
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-07-25",
+        "revenue": 30592.86
+      },
+      {
+        "order_count": 21,
+        "order_date": "2025-07-26",
+        "revenue": 18430.61
+      },
+      {
+        "order_count": 32,
+        "order_date": "2025-07-27",
+        "revenue": 36413.13
+      },
+      {
+        "order_count": 21,
+        "order_date": "2025-07-28",
+        "revenue": 24130.78
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-07-29",
+        "revenue": 25713.23
+      },
+      {
+        "order_count": 36,
+        "order_date": "2025-07-30",
+        "revenue": 37158.86
+      },
+      {
+        "order_count": 32,
+        "order_date": "2025-07-31",
+        "revenue": 30272.0
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-08-01",
+        "revenue": 31521.14
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-08-02",
+        "revenue": 26124.42
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-08-03",
+        "revenue": 28154.81
+      },
+      {
+        "order_count": 32,
+        "order_date": "2025-08-04",
+        "revenue": 36675.62
+      },
+      {
+        "order_count": 33,
+        "order_date": "2025-08-05",
+        "revenue": 35098.75
+      },
+      {
+        "order_count": 33,
+        "order_date": "2025-08-06",
+        "revenue": 34042.95
+      },
+      {
+        "order_count": 26,
+        "order_date": "2025-08-07",
+        "revenue": 30884.85
+      },
+      {
+        "order_count": 17,
+        "order_date": "2025-08-08",
+        "revenue": 25633.96
+      },
+      {
+        "order_count": 30,
+        "order_date": "2025-08-09",
+        "revenue": 22758.33
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-08-10",
+        "revenue": 23106.93
+      },
+      {
+        "order_count": 30,
+        "order_date": "2025-08-11",
+        "revenue": 42216.2
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-08-12",
+        "revenue": 21557.52
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-08-13",
+        "revenue": 28044.2
+      },
+      {
+        "order_count": 36,
+        "order_date": "2025-08-14",
+        "revenue": 55332.91
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-08-15",
+        "revenue": 27530.07
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-08-16",
+        "revenue": 29076.03
+      },
+      {
+        "order_count": 30,
+        "order_date": "2025-08-17",
+        "revenue": 26018.67
+      },
+      {
+        "order_count": 20,
+        "order_date": "2025-08-18",
+        "revenue": 24403.96
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-08-19",
+        "revenue": 34305.44
+      },
+      {
+        "order_count": 23,
+        "order_date": "2025-08-20",
+        "revenue": 22786.48
+      },
+      {
+        "order_count": 30,
+        "order_date": "2025-08-21",
+        "revenue": 20149.36
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-08-22",
+        "revenue": 23011.04
+      },
+      {
+        "order_count": 18,
+        "order_date": "2025-08-23",
+        "revenue": 25016.59
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-08-24",
+        "revenue": 32082.51
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-08-25",
+        "revenue": 34284.34
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-08-26",
+        "revenue": 34865.11
+      },
+      {
+        "order_count": 35,
+        "order_date": "2025-08-27",
+        "revenue": 27556.56
+      },
+      {
+        "order_count": 22,
+        "order_date": "2025-08-28",
+        "revenue": 17927.71
+      },
+      {
+        "order_count": 32,
+        "order_date": "2025-08-29",
+        "revenue": 39040.28
+      },
+      {
+        "order_count": 34,
+        "order_date": "2025-08-30",
+        "revenue": 28513.96
+      },
+      {
+        "order_count": 36,
+        "order_date": "2025-08-31",
+        "revenue": 35636.06
+      },
+      {
+        "order_count": 37,
+        "order_date": "2025-09-01",
+        "revenue": 28716.19
+      },
+      {
+        "order_count": 30,
+        "order_date": "2025-09-02",
+        "revenue": 27764.03
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-09-03",
+        "revenue": 22880.07
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-09-04",
+        "revenue": 24642.98
+      },
+      {
+        "order_count": 37,
+        "order_date": "2025-09-05",
+        "revenue": 27007.71
+      },
+      {
+        "order_count": 32,
+        "order_date": "2025-09-06",
+        "revenue": 32346.62
+      },
+      {
+        "order_count": 26,
+        "order_date": "2025-09-07",
+        "revenue": 20973.0
+      },
+      {
+        "order_count": 22,
+        "order_date": "2025-09-08",
+        "revenue": 21328.09
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-09-09",
+        "revenue": 24922.88
+      },
+      {
+        "order_count": 21,
+        "order_date": "2025-09-10",
+        "revenue": 25087.27
+      },
+      {
+        "order_count": 20,
+        "order_date": "2025-09-11",
+        "revenue": 20166.36
+      },
+      {
+        "order_count": 33,
+        "order_date": "2025-09-12",
+        "revenue": 30040.88
+      },
+      {
+        "order_count": 33,
+        "order_date": "2025-09-13",
+        "revenue": 29523.89
+      },
+      {
+        "order_count": 17,
+        "order_date": "2025-09-14",
+        "revenue": 21865.83
+      },
+      {
+        "order_count": 34,
+        "order_date": "2025-09-15",
+        "revenue": 45646.95
+      },
+      {
+        "order_count": 22,
+        "order_date": "2025-09-16",
+        "revenue": 15894.1
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-09-17",
+        "revenue": 18952.22
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-09-18",
+        "revenue": 27200.0
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-09-19",
+        "revenue": 28151.52
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-09-20",
+        "revenue": 30309.43
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-09-21",
+        "revenue": 28808.91
+      },
+      {
+        "order_count": 21,
+        "order_date": "2025-09-22",
+        "revenue": 20665.04
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-09-23",
+        "revenue": 30941.9
+      },
+      {
+        "order_count": 33,
+        "order_date": "2025-09-24",
+        "revenue": 40988.79
+      },
+      {
+        "order_count": 30,
+        "order_date": "2025-09-25",
+        "revenue": 29809.1
+      },
+      {
+        "order_count": 34,
+        "order_date": "2025-09-26",
+        "revenue": 43593.98
+      },
+      {
+        "order_count": 36,
+        "order_date": "2025-09-27",
+        "revenue": 40537.05
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-09-28",
+        "revenue": 19846.42
+      },
+      {
+        "order_count": 17,
+        "order_date": "2025-09-29",
+        "revenue": 19583.34
+      },
+      {
+        "order_count": 23,
+        "order_date": "2025-09-30",
+        "revenue": 22065.95
+      },
+      {
+        "order_count": 22,
+        "order_date": "2025-10-01",
+        "revenue": 22414.52
+      },
+      {
+        "order_count": 32,
+        "order_date": "2025-10-02",
+        "revenue": 27542.87
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-10-03",
+        "revenue": 23661.77
+      },
+      {
+        "order_count": 37,
+        "order_date": "2025-10-04",
+        "revenue": 38306.49
+      },
+      {
+        "order_count": 32,
+        "order_date": "2025-10-05",
+        "revenue": 27404.37
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-10-06",
+        "revenue": 30035.24
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-10-07",
+        "revenue": 28488.33
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-10-08",
+        "revenue": 24206.42
+      },
+      {
+        "order_count": 33,
+        "order_date": "2025-10-09",
+        "revenue": 40864.36
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-10-10",
+        "revenue": 26562.99
+      },
+      {
+        "order_count": 16,
+        "order_date": "2025-10-11",
+        "revenue": 16284.2
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-10-12",
+        "revenue": 25521.15
+      },
+      {
+        "order_count": 21,
+        "order_date": "2025-10-13",
+        "revenue": 18239.24
+      },
+      {
+        "order_count": 33,
+        "order_date": "2025-10-14",
+        "revenue": 33494.76
+      },
+      {
+        "order_count": 26,
+        "order_date": "2025-10-15",
+        "revenue": 25619.52
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-10-16",
+        "revenue": 31761.94
+      },
+      {
+        "order_count": 26,
+        "order_date": "2025-10-17",
+        "revenue": 18721.9
+      },
+      {
+        "order_count": 26,
+        "order_date": "2025-10-18",
+        "revenue": 23755.68
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-10-19",
+        "revenue": 30130.66
+      },
+      {
+        "order_count": 19,
+        "order_date": "2025-10-20",
+        "revenue": 23800.22
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-10-21",
+        "revenue": 23316.65
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-10-22",
+        "revenue": 21090.75
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-10-23",
+        "revenue": 23633.19
+      },
+      {
+        "order_count": 33,
+        "order_date": "2025-10-24",
+        "revenue": 26311.4
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-10-25",
+        "revenue": 30655.69
+      },
+      {
+        "order_count": 19,
+        "order_date": "2025-10-26",
+        "revenue": 19872.66
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-10-27",
+        "revenue": 27435.42
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-10-28",
+        "revenue": 31632.4
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-10-29",
+        "revenue": 17793.18
+      },
+      {
+        "order_count": 35,
+        "order_date": "2025-10-30",
+        "revenue": 29198.69
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-10-31",
+        "revenue": 24991.74
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-11-01",
+        "revenue": 28665.52
+      },
+      {
+        "order_count": 36,
+        "order_date": "2025-11-02",
+        "revenue": 45455.05
+      },
+      {
+        "order_count": 21,
+        "order_date": "2025-11-03",
+        "revenue": 18536.22
+      },
+      {
+        "order_count": 21,
+        "order_date": "2025-11-04",
+        "revenue": 18369.36
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-11-05",
+        "revenue": 21152.87
+      },
+      {
+        "order_count": 22,
+        "order_date": "2025-11-06",
+        "revenue": 22807.15
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-11-07",
+        "revenue": 22569.38
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-11-08",
+        "revenue": 35752.96
+      },
+      {
+        "order_count": 36,
+        "order_date": "2025-11-09",
+        "revenue": 31383.86
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-11-10",
+        "revenue": 27565.54
+      },
+      {
+        "order_count": 38,
+        "order_date": "2025-11-11",
+        "revenue": 48915.32
+      },
+      {
+        "order_count": 26,
+        "order_date": "2025-11-12",
+        "revenue": 27717.73
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-11-13",
+        "revenue": 33292.44
+      },
+      {
+        "order_count": 21,
+        "order_date": "2025-11-14",
+        "revenue": 25018.86
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-11-15",
+        "revenue": 30015.07
+      },
+      {
+        "order_count": 23,
+        "order_date": "2025-11-16",
+        "revenue": 23898.1
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-11-17",
+        "revenue": 21790.1
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-11-18",
+        "revenue": 28790.04
+      },
+      {
+        "order_count": 30,
+        "order_date": "2025-11-19",
+        "revenue": 33621.39
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-11-20",
+        "revenue": 40883.85
+      },
+      {
+        "order_count": 18,
+        "order_date": "2025-11-21",
+        "revenue": 14179.95
+      },
+      {
+        "order_count": 33,
+        "order_date": "2025-11-22",
+        "revenue": 37482.89
+      },
+      {
+        "order_count": 34,
+        "order_date": "2025-11-23",
+        "revenue": 35420.83
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-11-24",
+        "revenue": 23352.35
+      },
+      {
+        "order_count": 42,
+        "order_date": "2025-11-25",
+        "revenue": 46361.16
+      },
+      {
+        "order_count": 22,
+        "order_date": "2025-11-26",
+        "revenue": 24322.55
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-11-27",
+        "revenue": 24434.71
+      },
+      {
+        "order_count": 23,
+        "order_date": "2025-11-28",
+        "revenue": 23472.38
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-11-29",
+        "revenue": 26452.85
+      },
+      {
+        "order_count": 22,
+        "order_date": "2025-11-30",
+        "revenue": 16104.33
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-12-01",
+        "revenue": 22050.68
+      },
+      {
+        "order_count": 38,
+        "order_date": "2025-12-02",
+        "revenue": 43151.26
+      },
+      {
+        "order_count": 26,
+        "order_date": "2025-12-03",
+        "revenue": 29737.11
+      },
+      {
+        "order_count": 15,
+        "order_date": "2025-12-04",
+        "revenue": 14795.14
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-12-05",
+        "revenue": 28848.52
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-12-06",
+        "revenue": 17903.29
+      },
+      {
+        "order_count": 30,
+        "order_date": "2025-12-07",
+        "revenue": 29423.28
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-12-08",
+        "revenue": 25561.03
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-12-09",
+        "revenue": 21540.62
+      },
+      {
+        "order_count": 36,
+        "order_date": "2025-12-10",
+        "revenue": 34226.06
+      },
+      {
+        "order_count": 25,
+        "order_date": "2025-12-11",
+        "revenue": 37387.55
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-12-12",
+        "revenue": 39557.12
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-12-13",
+        "revenue": 24243.53
+      },
+      {
+        "order_count": 24,
+        "order_date": "2025-12-14",
+        "revenue": 21277.71
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-12-15",
+        "revenue": 30986.82
+      },
+      {
+        "order_count": 19,
+        "order_date": "2025-12-16",
+        "revenue": 17976.47
+      },
+      {
+        "order_count": 17,
+        "order_date": "2025-12-17",
+        "revenue": 15138.27
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-12-18",
+        "revenue": 37371.84
+      },
+      {
+        "order_count": 26,
+        "order_date": "2025-12-19",
+        "revenue": 26370.5
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-12-20",
+        "revenue": 34690.34
+      },
+      {
+        "order_count": 20,
+        "order_date": "2025-12-21",
+        "revenue": 17554.67
+      },
+      {
+        "order_count": 26,
+        "order_date": "2025-12-22",
+        "revenue": 24484.17
+      },
+      {
+        "order_count": 31,
+        "order_date": "2025-12-23",
+        "revenue": 21456.25
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-12-24",
+        "revenue": 24369.41
+      },
+      {
+        "order_count": 26,
+        "order_date": "2025-12-25",
+        "revenue": 22706.95
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-12-26",
+        "revenue": 28545.74
+      },
+      {
+        "order_count": 27,
+        "order_date": "2025-12-27",
+        "revenue": 34986.52
+      },
+      {
+        "order_count": 28,
+        "order_date": "2025-12-28",
+        "revenue": 28417.39
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-12-29",
+        "revenue": 22641.35
+      },
+      {
+        "order_count": 37,
+        "order_date": "2025-12-30",
+        "revenue": 33482.18
+      },
+      {
+        "order_count": 29,
+        "order_date": "2025-12-31",
+        "revenue": 36003.06
+      }
+    ],
+    "repeat_customers": [
+      {
+        "customer_id": "CUST0001239",
+        "customer_name": "Aditi Garcia",
+        "order_count": 15,
+        "revenue": 16261.33
+      },
+      {
+        "customer_id": "CUST0001078",
+        "customer_name": "Aarav Patel",
+        "order_count": 13,
+        "revenue": 15706.34
+      },
+      {
+        "customer_id": "CUST0000054",
+        "customer_name": "Kavya Kim",
+        "order_count": 13,
+        "revenue": 14323.0
+      },
+      {
+        "customer_id": "CUST0001915",
+        "customer_name": "Priya Johnson",
+        "order_count": 13,
+        "revenue": 14008.55
+      },
+      {
+        "customer_id": "CUST0000290",
+        "customer_name": "Vikram Patel",
+        "order_count": 13,
+        "revenue": 12946.2
+      },
+      {
+        "customer_id": "CUST0001799",
+        "customer_name": "Olivia Kumar",
+        "order_count": 13,
+        "revenue": 8949.77
+      },
+      {
+        "customer_id": "CUST0001935",
+        "customer_name": "Liam Mehta",
+        "order_count": 12,
+        "revenue": 15570.39
+      },
+      {
+        "customer_id": "CUST0001176",
+        "customer_name": "Olivia Martin",
+        "order_count": 12,
+        "revenue": 13462.65
+      },
+      {
+        "customer_id": "CUST0001401",
+        "customer_name": "James Gupta",
+        "order_count": 12,
+        "revenue": 10144.29
+      },
+      {
+        "customer_id": "CUST0001948",
+        "customer_name": "Elena Garcia",
+        "order_count": 12,
+        "revenue": 9228.04
+      },
+      {
+        "customer_id": "CUST0001892",
+        "customer_name": "Elena Shah",
+        "order_count": 11,
+        "revenue": 14530.37
+      },
+      {
+        "customer_id": "CUST0000047",
+        "customer_name": "Arjun Kumar",
+        "order_count": 11,
+        "revenue": 14524.27
+      },
+      {
+        "customer_id": "CUST0000524",
+        "customer_name": "Amelia Lee",
+        "order_count": 11,
+        "revenue": 14070.76
+      },
+      {
+        "customer_id": "CUST0001335",
+        "customer_name": "Aditi Patel",
+        "order_count": 11,
+        "revenue": 13588.58
+      },
+      {
+        "customer_id": "CUST0001819",
+        "customer_name": "Zara Johnson",
+        "order_count": 11,
+        "revenue": 13539.47
+      },
+      {
+        "customer_id": "CUST0000139",
+        "customer_name": "Vikram Lee",
+        "order_count": 11,
+        "revenue": 13515.44
+      },
+      {
+        "customer_id": "CUST0001812",
+        "customer_name": "Olivia Miller",
+        "order_count": 11,
+        "revenue": 13172.96
+      },
+      {
+        "customer_id": "CUST0001140",
+        "customer_name": "Fatima Wilson",
+        "order_count": 11,
+        "revenue": 13122.78
+      },
+      {
+        "customer_id": "CUST0001327",
+        "customer_name": "Liam Garcia",
+        "order_count": 11,
+        "revenue": 12930.12
+      },
+      {
+        "customer_id": "CUST0000442",
+        "customer_name": "Kavya Mehta",
+        "order_count": 11,
+        "revenue": 12897.77
+      }
+    ],
+    "revenue_change_over_time": [
+      {
+        "month": "2025-01",
+        "month_over_month_pct": null,
+        "revenue": 804599.62
+      },
+      {
+        "month": "2025-02",
+        "month_over_month_pct": 0.04,
+        "revenue": 804915.04
+      },
+      {
+        "month": "2025-03",
+        "month_over_month_pct": 3.88,
+        "revenue": 836125.96
+      },
+      {
+        "month": "2025-04",
+        "month_over_month_pct": -6.72,
+        "revenue": 779968.87
+      },
+      {
+        "month": "2025-05",
+        "month_over_month_pct": 5.02,
+        "revenue": 819120.92
+      },
+      {
+        "month": "2025-06",
+        "month_over_month_pct": -0.62,
+        "revenue": 814022.74
+      },
+      {
+        "month": "2025-07",
+        "month_over_month_pct": 6.17,
+        "revenue": 864265.97
+      },
+      {
+        "month": "2025-08",
+        "month_over_month_pct": 6.84,
+        "revenue": 923356.76
+      },
+      {
+        "month": "2025-09",
+        "month_over_month_pct": -11.17,
+        "revenue": 820260.5
+      },
+      {
+        "month": "2025-10",
+        "month_over_month_pct": -0.92,
+        "revenue": 812748.4
+      },
+      {
+        "month": "2025-11",
+        "month_over_month_pct": 5.54,
+        "revenue": 857784.81
+      },
+      {
+        "month": "2025-12",
+        "month_over_month_pct": -1.27,
+        "revenue": 846884.83
+      }
+    ],
+    "top_products_by_revenue": [
+      {
+        "category": "sports",
+        "product_id": "PROD000444",
+        "product_name": "Cricket Bat 444",
+        "revenue": 58183.02,
+        "units": 145
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000096",
+        "product_name": "Yoga Mat 096",
+        "revenue": 57458.6,
+        "units": 133
+      },
+      {
+        "category": "sports",
+        "product_id": "PROD000388",
+        "product_name": "Yoga Mat 388",
+        "revenue": 54089.28,
+        "units": 141
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000443",
+        "product_name": "Novel 443",
+        "revenue": 52624.08,
+        "units": 132
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000225",
+        "product_name": "Cookbook 225",
+        "revenue": 52504.98,
+        "units": 130
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000344",
+        "product_name": "Shampoo 344",
+        "revenue": 49592.0,
+        "units": 109
+      },
+      {
+        "category": "home",
+        "product_id": "PROD000210",
+        "product_name": "Bedsheet 210",
+        "revenue": 48317.3,
+        "units": 118
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000058",
+        "product_name": "Biography 058",
+        "revenue": 48078.34,
+        "units": 124
+      },
+      {
+        "category": "books",
+        "product_id": "PROD000313",
+        "product_name": "Biography 313",
+        "revenue": 48001.09,
+        "units": 117
+      },
+      {
+        "category": "beauty",
+        "product_id": "PROD000498",
+        "product_name": "Sunscreen 498",
+        "revenue": 46288.0,
+        "units": 125
+      }
+    ],
+    "total_revenue_by_month": [
+      {
+        "month": "2025-01",
+        "order_count": 815,
+        "revenue": 804599.62
+      },
+      {
+        "month": "2025-02",
+        "order_count": 771,
+        "revenue": 804915.04
+      },
+      {
+        "month": "2025-03",
+        "order_count": 838,
+        "revenue": 836125.96
+      },
+      {
+        "month": "2025-04",
+        "order_count": 820,
+        "revenue": 779968.87
+      },
+      {
+        "month": "2025-05",
+        "order_count": 838,
+        "revenue": 819120.92
+      },
+      {
+        "month": "2025-06",
+        "order_count": 837,
+        "revenue": 814022.74
+      },
+      {
+        "month": "2025-07",
+        "order_count": 871,
+        "revenue": 864265.97
+      },
+      {
+        "month": "2025-08",
+        "order_count": 883,
+        "revenue": 923356.76
+      },
+      {
+        "month": "2025-09",
+        "order_count": 824,
+        "revenue": 820260.5
+      },
+      {
+        "month": "2025-10",
+        "order_count": 824,
+        "revenue": 812748.4
+      },
+      {
+        "month": "2025-11",
+        "order_count": 835,
+        "revenue": 857784.81
+      },
+      {
+        "month": "2025-12",
+        "order_count": 844,
+        "revenue": 846884.83
+      }
+    ]
+  }
+}

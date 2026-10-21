@@ -109,7 +109,7 @@ create table if not exists ops.pipeline_runs (
     error_message text,
     constraint pipeline_runs_batch_id_uk unique (batch_id),
     constraint pipeline_runs_status_ck check (
-        status in ('running', 'succeeded', 'failed', 'partially_succeeded')
+        status in ('running', 'succeeded', 'failed', 'partially_succeeded', 'skipped')
     ),
     constraint pipeline_runs_counts_ck check (
         rows_read >= 0 and rows_loaded >= 0 and rows_rejected >= 0
@@ -125,6 +125,7 @@ create index if not exists pipeline_runs_status_started_idx
 create table if not exists ops.processed_source_files (
     file_id bigint generated always as identity primary key,
     run_id bigint not null,
+    dataset_name text not null,
     source_uri text not null,
     content_checksum text not null,
     file_size_bytes bigint not null,
@@ -134,8 +135,7 @@ create table if not exists ops.processed_source_files (
     rows_rejected bigint not null default 0,
     constraint processed_source_files_run_fk foreign key (run_id)
         references ops.pipeline_runs (run_id),
-    constraint processed_source_files_uri_checksum_uk
-        unique (source_uri, content_checksum),
+    constraint processed_source_files_run_uri_uk unique (run_id, source_uri),
     constraint processed_source_files_size_ck check (file_size_bytes >= 0),
     constraint processed_source_files_counts_ck check (
         rows_read >= 0 and rows_rejected >= 0 and rows_rejected <= rows_read
@@ -144,10 +144,13 @@ create table if not exists ops.processed_source_files (
 
 create index if not exists processed_source_files_run_id_idx
     on ops.processed_source_files (run_id);
+create index if not exists processed_source_files_uri_checksum_idx
+    on ops.processed_source_files (source_uri, content_checksum);
 
 create table if not exists ops.rejected_records (
     rejection_id bigint generated always as identity primary key,
     run_id bigint not null,
+    dataset_name text not null,
     source_uri text not null,
     source_row_number bigint,
     record_identifier text,

@@ -9,6 +9,12 @@ htmlcov/
 *.egg-info/
 dist/
 build/
+dashboard/node_modules/
+dashboard/dist/
+dashboard/.vite/
+dashboard/*.tsbuildinfo
+dashboard/vite.config.js
+dashboard/vite.config.d.ts
 
 # Generated pipeline data and logs. Keep only directory markers in Git.
 data/raw/**
