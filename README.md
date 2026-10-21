@@ -10,7 +10,11 @@ results in a responsive dashboard.
 AWS provisioning is deliberately not performed; phase 6 requires the project
 owner's explicit approval and credentials.
 
-![Verified analytics dashboard](docs/images/dashboard-desktop.jpg)
+### Dashboard preview
+
+| Desktop | Mobile |
+|---|---|
+| ![Verified desktop analytics dashboard](docs/images/dashboard-desktop.jpg) | ![Verified mobile analytics dashboard](docs/images/dashboard-mobile.jpg) |
 
 ## Verified result
 
